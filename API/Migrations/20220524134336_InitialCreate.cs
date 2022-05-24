@@ -1,8 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
+﻿using System;
+using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace API.Data.Migrations
+namespace API.Migrations
 {
     public partial class InitialCreate : Migration
     {
@@ -15,7 +16,9 @@ namespace API.Data.Migrations
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
                     UserName = table.Column<string>(type: "TEXT", nullable: true),
-                    Status = table.Column<int>(type: "INTEGER", nullable: false)
+                    Status = table.Column<int>(type: "INTEGER", nullable: false),
+                    PasswordHash = table.Column<byte[]>(type: "BLOB", nullable: true),
+                    PasswordSalt = table.Column<byte[]>(type: "BLOB", nullable: true)
                 },
                 constraints: table =>
                 {
