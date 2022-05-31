@@ -1,8 +1,5 @@
 <nav class="navbar navbar-expand-md navbar-dark fixed-top">
-  <div class="container">
-    <img class="logo" src="assets/logo.jpg" alt="apple" />
-    <a class="navbar-brand">Diet App</a>
-
+  <div class="container justify-content-center">
     <button
       class="navbar-toggler"
       type="button"
@@ -17,13 +14,19 @@
 
     <ul *ngIf="accountService.currentUser$ | async" class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" href="#">Home</a>
+        <a class="nav-link" routerLink="/wykres" routerLinkActive="active"
+          >Wykres</a
+        >
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Calculator</a>
+        <a class="nav-link" routerLink="/dane" routerLinkActive="active"
+          >Dane</a
+        >
       </li>
       <li class="nav-item">
-        <a class="nav-link">Shopping List</a>
+        <a class="nav-link" routerLink="/inne" routerLinkActive="active"
+          >Inne</a
+        >
       </li>
     </ul>
 
@@ -48,14 +51,18 @@
         type="password"
         placeholder="Password"
       />
-      <button class="btn-login" type="submit">Login</button>
+      <button class="btn-login" type="submit">Logowanie</button>
     </form>
 
-    <div class="dropdown" *ngIf="accountService.currentUser$ | async" dropdown>
-      <a class="dropdown-toggle text-light" dropdownToggle>Welcome user</a>
+    <div
+      class="dropdown"
+      *ngIf="accountService.currentUser$ | async as user"
+      dropdown
+    >
+      <a class="dropdown-toggle text-light" dropdownToggle
+        >Witaj, {{ user.userName }}</a
+      >
       <div class="dropdown-menu mt-3" *dropdownMenu>
-        <a class="dropdown-item">Edit Profile</a>
-        <div class="dropdown-divider"></div>
         <a class="dropdown-item" (click)="logout()">Logout</a>
       </div>
     </div>

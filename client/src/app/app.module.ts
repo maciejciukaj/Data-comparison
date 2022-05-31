@@ -11,8 +11,20 @@ import { BsDropdownModule } from 'ngx-bootstrap/dropdown';
 import { HomeComponent } from './home/home.component';
 import { RegisterComponent } from './register/register.component';
 
+import { WykresComponent } from './wykres/wykres.component';
+import { DaneComponent } from './dane/dane.component';
+import { InneComponent } from './inne/inne.component';
+
 @NgModule({
-  declarations: [AppComponent, NavComponent, HomeComponent, RegisterComponent],
+  declarations: [
+    AppComponent,
+    NavComponent,
+    HomeComponent,
+    RegisterComponent,
+    WykresComponent,
+    DaneComponent,
+    InneComponent,
+  ],
   imports: [
     BrowserModule,
     AppRoutingModule,

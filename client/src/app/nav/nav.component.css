@@ -1,15 +1,9 @@
-.logo {
-  border-radius: 25px;
-  margin-right: 20px;
-  width: 80px;
-  height: 60px;
-}
 .navbar {
-  background-color: #0bb386;
+  background-color: #4542d3;
 }
 .btn-login {
-  border-color: rgb(8, 75, 22);
-  background-color: rgb(84, 189, 89);
+  border-color: rgb(22, 26, 85);
+  background-color: rgb(192, 201, 241);
 
   border-radius: 15px;
   width: 150px;
@@ -20,5 +14,5 @@
   cursor: pointer;
 }
 .btn-login:hover {
-  background-color: rgb(22, 170, 54);
+  background-color: rgb(74, 115, 226);
 }

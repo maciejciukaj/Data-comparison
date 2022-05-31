@@ -1,4 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
+import { NgForm } from '@angular/forms';
+import { Router } from '@angular/router';
 import { Observable } from 'rxjs';
 import { User } from '../_models/user';
 import { AccountService } from '../_services/account.service';
@@ -11,14 +13,14 @@ import { AccountService } from '../_services/account.service';
 export class NavComponent implements OnInit {
   model: any = {};
 
-  constructor(public accountService: AccountService) {}
+  constructor(public accountService: AccountService, private router: Router) {}
 
   ngOnInit(): void {}
 
   login() {
     this.accountService.login(this.model).subscribe(
       (response) => {
-        console.log(response);
+        this.router.navigateByUrl('/wykres');
       },
       (error) => {
         console.log(error);
@@ -28,5 +30,6 @@ export class NavComponent implements OnInit {
 
   logout() {
     this.accountService.logout();
+    this.router.navigateByUrl('/');
   }
 }
