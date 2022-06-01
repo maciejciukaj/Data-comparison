@@ -1,0 +1,1578 @@
+﻿[
+        {
+            "Kod": "0200000",
+            "Nazwa": "DOLNOŚLĄSKIE",
+            
+            "Rok": "2011",
+            "Wartosc": "3587.25",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0200000",
+            "Nazwa": "DOLNOŚLĄSKIE",
+            
+            "Rok": "2012",
+            "Wartosc": "3709.32",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0200000",
+            "Nazwa": "DOLNOŚLĄSKIE",
+            
+            "Rok": "2013",
+            "Wartosc": "3868.86",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0200000",
+            "Nazwa": "DOLNOŚLĄSKIE",
+            
+            "Rok": "2014",
+            "Wartosc": "4042.86",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0200000",
+            "Nazwa": "DOLNOŚLĄSKIE",
+            
+            "Rok": "2015",
+            "Wartosc": "4204.24",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0200000",
+            "Nazwa": "DOLNOŚLĄSKIE",
+            
+            "Rok": "2016",
+            "Wartosc": "4385.84",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0200000",
+            "Nazwa": "DOLNOŚLĄSKIE",
+            
+            "Rok": "2017",
+            "Wartosc": "4654.51",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0200000",
+            "Nazwa": "DOLNOŚLĄSKIE",
+            
+            "Rok": "2018",
+            "Wartosc": "4942.39",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0200000",
+            "Nazwa": "DOLNOŚLĄSKIE",
+            
+            "Rok": "2019",
+            "Wartosc": "5323.55",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0200000",
+            "Nazwa": "DOLNOŚLĄSKIE",
+            
+            "Rok": "2020",
+            "Wartosc": "5693.69",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0200000",
+            "Nazwa": "DOLNOŚLĄSKIE",
+            
+            "Rok": "2021",
+            "Wartosc": "-",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0400000",
+            "Nazwa": "KUJAWSKO-POMORSKIE",
+            
+            "Rok": "2011",
+            "Wartosc": "3062.32",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0400000",
+            "Nazwa": "KUJAWSKO-POMORSKIE",
+            
+            "Rok": "2012",
+            "Wartosc": "3182.31",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0400000",
+            "Nazwa": "KUJAWSKO-POMORSKIE",
+            
+            "Rok": "2013",
+            "Wartosc": "3322.09",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0400000",
+            "Nazwa": "KUJAWSKO-POMORSKIE",
+            
+            "Rok": "2014",
+            "Wartosc": "3439.06",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0400000",
+            "Nazwa": "KUJAWSKO-POMORSKIE",
+            
+            "Rok": "2015",
+            "Wartosc": "3540.25",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0400000",
+            "Nazwa": "KUJAWSKO-POMORSKIE",
+            
+            "Rok": "2016",
+            "Wartosc": "3672.98",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0400000",
+            "Nazwa": "KUJAWSKO-POMORSKIE",
+            
+            "Rok": "2017",
+            "Wartosc": "3886.2",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0400000",
+            "Nazwa": "KUJAWSKO-POMORSKIE",
+            
+            "Rok": "2018",
+            "Wartosc": "4139.21",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0400000",
+            "Nazwa": "KUJAWSKO-POMORSKIE",
+            
+            "Rok": "2019",
+            "Wartosc": "4494.37",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0400000",
+            "Nazwa": "KUJAWSKO-POMORSKIE",
+            
+            "Rok": "2020",
+            "Wartosc": "4831.73",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0400000",
+            "Nazwa": "KUJAWSKO-POMORSKIE",
+            
+            "Rok": "2021",
+            "Wartosc": "-",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0600000",
+            "Nazwa": "LUBELSKIE",
+            
+            "Rok": "2011",
+            "Wartosc": "3257.14",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0600000",
+            "Nazwa": "LUBELSKIE",
+            
+            "Rok": "2012",
+            "Wartosc": "3382.66",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0600000",
+            "Nazwa": "LUBELSKIE",
+            
+            "Rok": "2013",
+            "Wartosc": "3488.61",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0600000",
+            "Nazwa": "LUBELSKIE",
+            
+            "Rok": "2014",
+            "Wartosc": "3605.03",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0600000",
+            "Nazwa": "LUBELSKIE",
+            
+            "Rok": "2015",
+            "Wartosc": "3699.48",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0600000",
+            "Nazwa": "LUBELSKIE",
+            
+            "Rok": "2016",
+            "Wartosc": "3815.95",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0600000",
+            "Nazwa": "LUBELSKIE",
+            
+            "Rok": "2017",
+            "Wartosc": "4020.25",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0600000",
+            "Nazwa": "LUBELSKIE",
+            
+            "Rok": "2018",
+            "Wartosc": "4260.71",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0600000",
+            "Nazwa": "LUBELSKIE",
+            
+            "Rok": "2019",
+            "Wartosc": "4564.85",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0600000",
+            "Nazwa": "LUBELSKIE",
+            
+            "Rok": "2020",
+            "Wartosc": "4914.95",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0600000",
+            "Nazwa": "LUBELSKIE",
+            
+            "Rok": "2021",
+            "Wartosc": "-",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0800000",
+            "Nazwa": "LUBUSKIE",
+            
+            "Rok": "2011",
+            "Wartosc": "3073.95",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0800000",
+            "Nazwa": "LUBUSKIE",
+            
+            "Rok": "2012",
+            "Wartosc": "3203.18",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0800000",
+            "Nazwa": "LUBUSKIE",
+            
+            "Rok": "2013",
+            "Wartosc": "3282.07",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0800000",
+            "Nazwa": "LUBUSKIE",
+            
+            "Rok": "2014",
+            "Wartosc": "3425.38",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0800000",
+            "Nazwa": "LUBUSKIE",
+            
+            "Rok": "2015",
+            "Wartosc": "3567.6",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0800000",
+            "Nazwa": "LUBUSKIE",
+            
+            "Rok": "2016",
+            "Wartosc": "3734.9",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0800000",
+            "Nazwa": "LUBUSKIE",
+            
+            "Rok": "2017",
+            "Wartosc": "3950.95",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0800000",
+            "Nazwa": "LUBUSKIE",
+            
+            "Rok": "2018",
+            "Wartosc": "4239.92",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0800000",
+            "Nazwa": "LUBUSKIE",
+            
+            "Rok": "2019",
+            "Wartosc": "4559.96",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0800000",
+            "Nazwa": "LUBUSKIE",
+            
+            "Rok": "2020",
+            "Wartosc": "4832.07",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "0800000",
+            "Nazwa": "LUBUSKIE",
+            
+            "Rok": "2021",
+            "Wartosc": "-",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1000000",
+            "Nazwa": "ŁÓDZKIE",
+            
+            "Rok": "2011",
+            "Wartosc": "3245.97",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1000000",
+            "Nazwa": "ŁÓDZKIE",
+            
+            "Rok": "2012",
+            "Wartosc": "3383.3",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1000000",
+            "Nazwa": "ŁÓDZKIE",
+            
+            "Rok": "2013",
+            "Wartosc": "3510.2",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1000000",
+            "Nazwa": "ŁÓDZKIE",
+            
+            "Rok": "2014",
+            "Wartosc": "3618.63",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1000000",
+            "Nazwa": "ŁÓDZKIE",
+            
+            "Rok": "2015",
+            "Wartosc": "3790.76",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1000000",
+            "Nazwa": "ŁÓDZKIE",
+            
+            "Rok": "2016",
+            "Wartosc": "3925.1",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1000000",
+            "Nazwa": "ŁÓDZKIE",
+            
+            "Rok": "2017",
+            "Wartosc": "4141.94",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1000000",
+            "Nazwa": "ŁÓDZKIE",
+            
+            "Rok": "2018",
+            "Wartosc": "4441.29",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1000000",
+            "Nazwa": "ŁÓDZKIE",
+            
+            "Rok": "2019",
+            "Wartosc": "4790.1",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1000000",
+            "Nazwa": "ŁÓDZKIE",
+            
+            "Rok": "2020",
+            "Wartosc": "5148.38",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1000000",
+            "Nazwa": "ŁÓDZKIE",
+            
+            "Rok": "2021",
+            "Wartosc": "-",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1200000",
+            "Nazwa": "MAŁOPOLSKIE",
+            
+            "Rok": "2011",
+            "Wartosc": "3332.98",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1200000",
+            "Nazwa": "MAŁOPOLSKIE",
+            
+            "Rok": "2012",
+            "Wartosc": "3456.16",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1200000",
+            "Nazwa": "MAŁOPOLSKIE",
+            
+            "Rok": "2013",
+            "Wartosc": "3574.22",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1200000",
+            "Nazwa": "MAŁOPOLSKIE",
+            
+            "Rok": "2014",
+            "Wartosc": "3700.06",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1200000",
+            "Nazwa": "MAŁOPOLSKIE",
+            
+            "Rok": "2015",
+            "Wartosc": "3906.96",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1200000",
+            "Nazwa": "MAŁOPOLSKIE",
+            
+            "Rok": "2016",
+            "Wartosc": "4077.91",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1200000",
+            "Nazwa": "MAŁOPOLSKIE",
+            
+            "Rok": "2017",
+            "Wartosc": "4347.1",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1200000",
+            "Nazwa": "MAŁOPOLSKIE",
+            
+            "Rok": "2018",
+            "Wartosc": "4678.95",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1200000",
+            "Nazwa": "MAŁOPOLSKIE",
+            
+            "Rok": "2019",
+            "Wartosc": "5098.26",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1200000",
+            "Nazwa": "MAŁOPOLSKIE",
+            
+            "Rok": "2020",
+            "Wartosc": "5536.07",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1200000",
+            "Nazwa": "MAŁOPOLSKIE",
+            
+            "Rok": "2021",
+            "Wartosc": "-",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1400000",
+            "Nazwa": "MAZOWIECKIE",
+            
+            "Rok": "2011",
+            "Wartosc": "4504.66",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1400000",
+            "Nazwa": "MAZOWIECKIE",
+            
+            "Rok": "2012",
+            "Wartosc": "4637.58",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1400000",
+            "Nazwa": "MAZOWIECKIE",
+            
+            "Rok": "2013",
+            "Wartosc": "4773.41",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1400000",
+            "Nazwa": "MAZOWIECKIE",
+            
+            "Rok": "2014",
+            "Wartosc": "4927.34",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1400000",
+            "Nazwa": "MAZOWIECKIE",
+            
+            "Rok": "2015",
+            "Wartosc": "5098.55",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1400000",
+            "Nazwa": "MAZOWIECKIE",
+            
+            "Rok": "2016",
+            "Wartosc": "5240.86",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1400000",
+            "Nazwa": "MAZOWIECKIE",
+            
+            "Rok": "2017",
+            "Wartosc": "5523.65",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1400000",
+            "Nazwa": "MAZOWIECKIE",
+            
+            "Rok": "2018",
+            "Wartosc": "5888.9",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1400000",
+            "Nazwa": "MAZOWIECKIE",
+            
+            "Rok": "2019",
+            "Wartosc": "6248.47",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1400000",
+            "Nazwa": "MAZOWIECKIE",
+            
+            "Rok": "2020",
+            "Wartosc": "6581.81",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1400000",
+            "Nazwa": "MAZOWIECKIE",
+            
+            "Rok": "2021",
+            "Wartosc": "-",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1600000",
+            "Nazwa": "OPOLSKIE",
+            
+            "Rok": "2011",
+            "Wartosc": "3249.58",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1600000",
+            "Nazwa": "OPOLSKIE",
+            
+            "Rok": "2012",
+            "Wartosc": "3358.42",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1600000",
+            "Nazwa": "OPOLSKIE",
+            
+            "Rok": "2013",
+            "Wartosc": "3473.4",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1600000",
+            "Nazwa": "OPOLSKIE",
+            
+            "Rok": "2014",
+            "Wartosc": "3632.84",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1600000",
+            "Nazwa": "OPOLSKIE",
+            
+            "Rok": "2015",
+            "Wartosc": "3793.28",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1600000",
+            "Nazwa": "OPOLSKIE",
+            
+            "Rok": "2016",
+            "Wartosc": "3927.04",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1600000",
+            "Nazwa": "OPOLSKIE",
+            
+            "Rok": "2017",
+            "Wartosc": "4144.91",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1600000",
+            "Nazwa": "OPOLSKIE",
+            
+            "Rok": "2018",
+            "Wartosc": "4379.25",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1600000",
+            "Nazwa": "OPOLSKIE",
+            
+            "Rok": "2019",
+            "Wartosc": "4712.47",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1600000",
+            "Nazwa": "OPOLSKIE",
+            
+            "Rok": "2020",
+            "Wartosc": "5078.51",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1600000",
+            "Nazwa": "OPOLSKIE",
+            
+            "Rok": "2021",
+            "Wartosc": "-",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1800000",
+            "Nazwa": "PODKARPACKIE",
+            
+            "Rok": "2011",
+            "Wartosc": "3023.21",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1800000",
+            "Nazwa": "PODKARPACKIE",
+            
+            "Rok": "2012",
+            "Wartosc": "3152.36",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1800000",
+            "Nazwa": "PODKARPACKIE",
+            
+            "Rok": "2013",
+            "Wartosc": "3282.69",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1800000",
+            "Nazwa": "PODKARPACKIE",
+            
+            "Rok": "2014",
+            "Wartosc": "3412.3",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1800000",
+            "Nazwa": "PODKARPACKIE",
+            
+            "Rok": "2015",
+            "Wartosc": "3527.62",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1800000",
+            "Nazwa": "PODKARPACKIE",
+            
+            "Rok": "2016",
+            "Wartosc": "3653.67",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1800000",
+            "Nazwa": "PODKARPACKIE",
+            
+            "Rok": "2017",
+            "Wartosc": "3837.17",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1800000",
+            "Nazwa": "PODKARPACKIE",
+            
+            "Rok": "2018",
+            "Wartosc": "4089.81",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1800000",
+            "Nazwa": "PODKARPACKIE",
+            
+            "Rok": "2019",
+            "Wartosc": "4388.16",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1800000",
+            "Nazwa": "PODKARPACKIE",
+            
+            "Rok": "2020",
+            "Wartosc": "4707.81",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "1800000",
+            "Nazwa": "PODKARPACKIE",
+            
+            "Rok": "2021",
+            "Wartosc": "-",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2000000",
+            "Nazwa": "PODLASKIE",
+            
+            "Rok": "2011",
+            "Wartosc": "3178.15",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2000000",
+            "Nazwa": "PODLASKIE",
+            
+            "Rok": "2012",
+            "Wartosc": "3310.71",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2000000",
+            "Nazwa": "PODLASKIE",
+            
+            "Rok": "2013",
+            "Wartosc": "3432.71",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2000000",
+            "Nazwa": "PODLASKIE",
+            
+            "Rok": "2014",
+            "Wartosc": "3530.17",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2000000",
+            "Nazwa": "PODLASKIE",
+            
+            "Rok": "2015",
+            "Wartosc": "3647.08",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2000000",
+            "Nazwa": "PODLASKIE",
+            
+            "Rok": "2016",
+            "Wartosc": "3767.2",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2000000",
+            "Nazwa": "PODLASKIE",
+            
+            "Rok": "2017",
+            "Wartosc": "4005.94",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2000000",
+            "Nazwa": "PODLASKIE",
+            
+            "Rok": "2018",
+            "Wartosc": "4264.04",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2000000",
+            "Nazwa": "PODLASKIE",
+            
+            "Rok": "2019",
+            "Wartosc": "4575.88",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2000000",
+            "Nazwa": "PODLASKIE",
+            
+            "Rok": "2020",
+            "Wartosc": "4929.64",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2000000",
+            "Nazwa": "PODLASKIE",
+            
+            "Rok": "2021",
+            "Wartosc": "-",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2200000",
+            "Nazwa": "POMORSKIE",
+            
+            "Rok": "2011",
+            "Wartosc": "3567.49",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2200000",
+            "Nazwa": "POMORSKIE",
+            
+            "Rok": "2012",
+            "Wartosc": "3696.89",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2200000",
+            "Nazwa": "POMORSKIE",
+            
+            "Rok": "2013",
+            "Wartosc": "3847.12",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2200000",
+            "Nazwa": "POMORSKIE",
+            
+            "Rok": "2014",
+            "Wartosc": "4011.59",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2200000",
+            "Nazwa": "POMORSKIE",
+            
+            "Rok": "2015",
+            "Wartosc": "4132.13",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2200000",
+            "Nazwa": "POMORSKIE",
+            
+            "Rok": "2016",
+            "Wartosc": "4274.73",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2200000",
+            "Nazwa": "POMORSKIE",
+            
+            "Rok": "2017",
+            "Wartosc": "4496.64",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2200000",
+            "Nazwa": "POMORSKIE",
+            
+            "Rok": "2018",
+            "Wartosc": "4794.74",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2200000",
+            "Nazwa": "POMORSKIE",
+            
+            "Rok": "2019",
+            "Wartosc": "5142.01",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2200000",
+            "Nazwa": "POMORSKIE",
+            
+            "Rok": "2020",
+            "Wartosc": "5484.46",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2200000",
+            "Nazwa": "POMORSKIE",
+            
+            "Rok": "2021",
+            "Wartosc": "-",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2400000",
+            "Nazwa": "ŚLĄSKIE",
+            
+            "Rok": "2011",
+            "Wartosc": "3794.62",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2400000",
+            "Nazwa": "ŚLĄSKIE",
+            
+            "Rok": "2012",
+            "Wartosc": "3855.26",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2400000",
+            "Nazwa": "ŚLĄSKIE",
+            
+            "Rok": "2013",
+            "Wartosc": "4022.8",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2400000",
+            "Nazwa": "ŚLĄSKIE",
+            
+            "Rok": "2014",
+            "Wartosc": "4100.51",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2400000",
+            "Nazwa": "ŚLĄSKIE",
+            
+            "Rok": "2015",
+            "Wartosc": "4221.45",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2400000",
+            "Nazwa": "ŚLĄSKIE",
+            
+            "Rok": "2016",
+            "Wartosc": "4295.29",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2400000",
+            "Nazwa": "ŚLĄSKIE",
+            
+            "Rok": "2017",
+            "Wartosc": "4481.57",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2400000",
+            "Nazwa": "ŚLĄSKIE",
+            
+            "Rok": "2018",
+            "Wartosc": "4825.28",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2400000",
+            "Nazwa": "ŚLĄSKIE",
+            
+            "Rok": "2019",
+            "Wartosc": "5177.86",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2400000",
+            "Nazwa": "ŚLĄSKIE",
+            
+            "Rok": "2020",
+            "Wartosc": "5450.86",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2400000",
+            "Nazwa": "ŚLĄSKIE",
+            
+            "Rok": "2021",
+            "Wartosc": "-",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2600000",
+            "Nazwa": "ŚWIĘTOKRZYSKIE",
+            
+            "Rok": "2011",
+            "Wartosc": "3137.91",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2600000",
+            "Nazwa": "ŚWIĘTOKRZYSKIE",
+            
+            "Rok": "2012",
+            "Wartosc": "3250.94",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2600000",
+            "Nazwa": "ŚWIĘTOKRZYSKIE",
+            
+            "Rok": "2013",
+            "Wartosc": "3349.81",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2600000",
+            "Nazwa": "ŚWIĘTOKRZYSKIE",
+            
+            "Rok": "2014",
+            "Wartosc": "3435.93",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2600000",
+            "Nazwa": "ŚWIĘTOKRZYSKIE",
+            
+            "Rok": "2015",
+            "Wartosc": "3580.62",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2600000",
+            "Nazwa": "ŚWIĘTOKRZYSKIE",
+            
+            "Rok": "2016",
+            "Wartosc": "3669.57",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2600000",
+            "Nazwa": "ŚWIĘTOKRZYSKIE",
+            
+            "Rok": "2017",
+            "Wartosc": "3911.49",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2600000",
+            "Nazwa": "ŚWIĘTOKRZYSKIE",
+            
+            "Rok": "2018",
+            "Wartosc": "4171.17",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2600000",
+            "Nazwa": "ŚWIĘTOKRZYSKIE",
+            
+            "Rok": "2019",
+            "Wartosc": "4490.41",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2600000",
+            "Nazwa": "ŚWIĘTOKRZYSKIE",
+            
+            "Rok": "2020",
+            "Wartosc": "4800.21",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2600000",
+            "Nazwa": "ŚWIĘTOKRZYSKIE",
+            
+            "Rok": "2021",
+            "Wartosc": "-",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2800000",
+            "Nazwa": "WARMIŃSKO-MAZURSKIE",
+            
+            "Rok": "2011",
+            "Wartosc": "3019.37",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2800000",
+            "Nazwa": "WARMIŃSKO-MAZURSKIE",
+            
+            "Rok": "2012",
+            "Wartosc": "3150.27",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2800000",
+            "Nazwa": "WARMIŃSKO-MAZURSKIE",
+            
+            "Rok": "2013",
+            "Wartosc": "3264.63",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2800000",
+            "Nazwa": "WARMIŃSKO-MAZURSKIE",
+            
+            "Rok": "2014",
+            "Wartosc": "3386.96",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2800000",
+            "Nazwa": "WARMIŃSKO-MAZURSKIE",
+            
+            "Rok": "2015",
+            "Wartosc": "3495.02",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2800000",
+            "Nazwa": "WARMIŃSKO-MAZURSKIE",
+            
+            "Rok": "2016",
+            "Wartosc": "3619.16",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2800000",
+            "Nazwa": "WARMIŃSKO-MAZURSKIE",
+            
+            "Rok": "2017",
+            "Wartosc": "3802.98",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2800000",
+            "Nazwa": "WARMIŃSKO-MAZURSKIE",
+            
+            "Rok": "2018",
+            "Wartosc": "4028.33",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2800000",
+            "Nazwa": "WARMIŃSKO-MAZURSKIE",
+            
+            "Rok": "2019",
+            "Wartosc": "4319.51",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2800000",
+            "Nazwa": "WARMIŃSKO-MAZURSKIE",
+            
+            "Rok": "2020",
+            "Wartosc": "4709.12",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "2800000",
+            "Nazwa": "WARMIŃSKO-MAZURSKIE",
+            
+            "Rok": "2021",
+            "Wartosc": "-",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3000000",
+            "Nazwa": "WIELKOPOLSKIE",
+            
+            "Rok": "2011",
+            "Wartosc": "3284.41",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3000000",
+            "Nazwa": "WIELKOPOLSKIE",
+            
+            "Rok": "2012",
+            "Wartosc": "3397.25",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3000000",
+            "Nazwa": "WIELKOPOLSKIE",
+            
+            "Rok": "2013",
+            "Wartosc": "3515.31",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3000000",
+            "Nazwa": "WIELKOPOLSKIE",
+            
+            "Rok": "2014",
+            "Wartosc": "3597.69",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3000000",
+            "Nazwa": "WIELKOPOLSKIE",
+            
+            "Rok": "2015",
+            "Wartosc": "3723.69",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3000000",
+            "Nazwa": "WIELKOPOLSKIE",
+            
+            "Rok": "2016",
+            "Wartosc": "3894.1",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3000000",
+            "Nazwa": "WIELKOPOLSKIE",
+            
+            "Rok": "2017",
+            "Wartosc": "4124.13",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3000000",
+            "Nazwa": "WIELKOPOLSKIE",
+            
+            "Rok": "2018",
+            "Wartosc": "4382.96",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3000000",
+            "Nazwa": "WIELKOPOLSKIE",
+            
+            "Rok": "2019",
+            "Wartosc": "4687.39",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3000000",
+            "Nazwa": "WIELKOPOLSKIE",
+            
+            "Rok": "2020",
+            "Wartosc": "4985.75",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3000000",
+            "Nazwa": "WIELKOPOLSKIE",
+            
+            "Rok": "2021",
+            "Wartosc": "-",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3200000",
+            "Nazwa": "ZACHODNIOPOMORSKIE",
+            
+            "Rok": "2011",
+            "Wartosc": "3289.56",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3200000",
+            "Nazwa": "ZACHODNIOPOMORSKIE",
+            
+            "Rok": "2012",
+            "Wartosc": "3417.76",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3200000",
+            "Nazwa": "ZACHODNIOPOMORSKIE",
+            
+            "Rok": "2013",
+            "Wartosc": "3539.12",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3200000",
+            "Nazwa": "ZACHODNIOPOMORSKIE",
+            "Rok": "2014",
+            "Wartosc": "3649.27",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3200000",
+            "Nazwa": "ZACHODNIOPOMORSKIE",
+            "Rok": "2015",
+            "Wartosc": "3793.68",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3200000",
+            "Nazwa": "ZACHODNIOPOMORSKIE",
+            "Rok": "2016",
+            "Wartosc": "3946.28",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3200000",
+            "Nazwa": "ZACHODNIOPOMORSKIE",           
+            "Rok": "2017",
+            "Wartosc": "4154.25",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3200000",
+            "Nazwa": "ZACHODNIOPOMORSKIE",           
+            "Rok": "2018",
+            "Wartosc": "4431.95",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3200000",
+            "Nazwa": "ZACHODNIOPOMORSKIE",        
+            "Rok": "2019",
+            "Wartosc": "4769.71",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3200000",
+            "Nazwa": "ZACHODNIOPOMORSKIE",           
+            "Rok": "2020",
+            "Wartosc": "5099.49",
+            "Jednostkamiary": "zł"
+            
+        },
+        {
+            "Kod": "3200000",
+            "Nazwa": "ZACHODNIOPOMORSKIE",          
+            "Rok": "2021",
+            "Wartosc": "-",
+            "Jednostkamiary": "zł"
+            
+        }
+]
