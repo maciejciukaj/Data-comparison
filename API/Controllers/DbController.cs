@@ -45,7 +45,35 @@ namespace API.Controllers
 
         }
 
-        [HttpGet("dodajAllWynagrodzenia")]
+        [HttpPost("dodajCeneProduktu")]
+        public async Task<ActionResult<CenaProduktuE>> dodajCeneProduktu(CenaProduktuE cena){
+
+           
+
+            var cenaN = new CenaProduktuE{
+                Kod = cena.Kod,
+                Nazwa = cena.Nazwa,
+                RodzajeTowaru = cena.RodzajeTowaru,
+                Rok = cena.Rok,
+                Wartosc = cena.Wartosc
+
+            };
+            _db.CenyProduktow.Add(cenaN);
+            await _db.SaveChangesAsync();
+
+            return new CenaProduktuE{
+               
+                Kod = cenaN.Kod,
+                Nazwa = cenaN.Nazwa,
+                RodzajeTowaru = cenaN.RodzajeTowaru,
+                Rok = cenaN.Rok,
+                Wartosc = cenaN.Wartosc
+
+            };
+
+        }
+
+        [HttpPost("dodajAllWynagrodzenia")]
         public async void dodajAllWynagrodzenia(){
 
          
@@ -63,7 +91,7 @@ namespace API.Controllers
             }
         }
 
-        [HttpGet("dodajAllCeny")]
+        [HttpPost("dodajAllCeny")]
         public async void dodajAllCeny(){
 
          
