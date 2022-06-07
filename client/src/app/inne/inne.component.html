@@ -1,1 +1,9 @@
 <p>inne works!</p>
+<table>
+  <tr *ngFor="let dan of dane">
+    <td>
+      {{ dan.kod }} {{ dan.nazwa }} {{ dan.rodzajeTowaru }} {{ dan.rok }}
+      {{ dan.wartosc }} zł
+    </td>
+  </tr>
+</table>

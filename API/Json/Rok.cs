@@ -12,22 +12,21 @@ namespace API
 
         public string Pay { get; set; }
 
-        public List<(string name, string cost)> Produkt { get; set; }
+        public List<CenaProduktuK> Produkt { get; set; }
 
-        public Rok(string year,string pay, List<(string name, string cost)> produkt)
+        public Rok(string year,string pay, List<CenaProduktuK> produkt)
         {
             Year = year;
             Pay = pay;
             Produkt = produkt;
         }
 
-        public Rok(string year, string pay)
+        public Rok()
         {
-            Year = year;
-            Pay = pay;
+           
         }
 
-        public void print()
+       /* public void print()
         {
             Console.WriteLine(" {0}", Year);
             Console.WriteLine("  Zarobki = {0}", Pay);
@@ -35,7 +34,7 @@ namespace API
             {
                 Console.WriteLine("    {0}:{1}",Produkt[i].name, Produkt[i].cost);
             }
-        }
+        }*/
 
 
     }

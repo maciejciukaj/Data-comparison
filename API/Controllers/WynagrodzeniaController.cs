@@ -44,9 +44,15 @@ namespace API.Controllers
         }
 
           [HttpGet("getWynagrodzeniaBaza")]
-        public async Task<ActionResult<IEnumerable<Entities.WynagrodzenieE>>> GetCenyBaza(){
+        public async Task<ActionResult<IEnumerable<Entities.WynagrodzenieE>>> GetWynagrodzeniaBaza(){
             
             return await _context.Wynagrodzenia.ToListAsync();
+        }
+
+         [HttpGet("getWynagrodzeniaBaza/{nazwa}")]
+        public async Task<ActionResult<IEnumerable<Entities.WynagrodzenieE>>> GetWynagrodzeniaBazaNazwa(string nazwa){
+            
+            return await _context.Wynagrodzenia.Where(a => a.Nazwa == nazwa).ToListAsync();
         }
     }
 }

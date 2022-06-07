@@ -13,11 +13,12 @@ export class AppComponent implements OnInit {
   users: any;
 
   constructor(
-    private accountService: AccountService
+    private accountService: AccountService,
+    private http: HttpClient
   ) {}
 
   ngOnInit() {
-    // this.getUsers();
+    //this.getUsers();
     this.setCurrentUser();
   }
   setCurrentUser() {

@@ -1,0 +1,12 @@
+.graph1 {
+  float: left;
+  display: flex;
+  justify-content: center;
+}
+.graph2 {
+  float: left;
+  clear: left;
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}

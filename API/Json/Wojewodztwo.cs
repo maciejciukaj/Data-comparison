@@ -9,7 +9,7 @@ namespace API
     public class Wojewodztwo
     {
         public string Name { get; set; }
-        public List<Rok> Lata;
+        public List<Rok> Lata {get; set;}
 
         public Wojewodztwo(string name, List<Rok> lata)
         {
@@ -17,10 +17,10 @@ namespace API
             Lata = lata;
         }
 
-        public void print()
+      /*  public void print()
         {
             Console.WriteLine("{0}", Name);
             Lata.ForEach(x => x.print());
-        }
+        }*/
     }
 }

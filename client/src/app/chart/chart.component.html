@@ -1,0 +1,18 @@
+<form>
+  Wybierz województwo:
+  <select [(ngModel)]="selectedWoj" name="woj" id="wojewodztwo">
+    <option *ngFor="let item of wojewodztwa" [value]="item">
+      {{ item }}
+    </option>
+  </select>
+</form>
+<div id="divChart">
+  <canvas id="myChart"></canvas>
+</div>
+<!--<table>
+  <tr *ngFor="let dan of wynagrodzeniaChartDane">
+    <td>
+      {{ dan.wartosc }}
+    </td>
+  </tr>
+</table>-->

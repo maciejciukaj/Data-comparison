@@ -14,6 +14,8 @@ import { RegisterComponent } from './register/register.component';
 import { WykresComponent } from './wykres/wykres.component';
 import { DaneComponent } from './dane/dane.component';
 import { InneComponent } from './inne/inne.component';
+import { ChartComponent } from './chart/chart.component';
+import { Chart2Component } from './chart2/chart2.component';
 
 @NgModule({
   declarations: [
@@ -24,6 +26,8 @@ import { InneComponent } from './inne/inne.component';
     WykresComponent,
     DaneComponent,
     InneComponent,
+    ChartComponent,
+    Chart2Component,
   ],
   imports: [
     BrowserModule,

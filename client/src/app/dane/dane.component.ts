@@ -15,9 +15,11 @@ export class DaneComponent implements OnInit {
   }
 
   getDane() {
-    return this.http.get('https://localhost:5001/api/dane/').subscribe({
-      next: (response) => console.log(response),
-      error: (error) => console.log(error),
-    });
+    return this.http
+      .get('https://localhost:5001/api/ceny/getCenyBaza/')
+      .subscribe({
+        next: (response) => (this.dane = response),
+        error: (error) => console.log(error),
+      });
   }
 }

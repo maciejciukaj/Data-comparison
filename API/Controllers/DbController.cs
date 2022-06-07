@@ -13,7 +13,7 @@ namespace API.Controllers
     {
         private readonly DataContext _db;
 
-    //the framework handles this
+   
     public DbController(DataContext db)
     {
         _db = db;
