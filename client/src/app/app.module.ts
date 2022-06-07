@@ -10,12 +10,17 @@ import { FormsModule } from '@angular/forms';
 import { BsDropdownModule } from 'ngx-bootstrap/dropdown';
 import { HomeComponent } from './home/home.component';
 import { RegisterComponent } from './register/register.component';
-
 import { WykresComponent } from './wykres/wykres.component';
 import { DaneComponent } from './dane/dane.component';
 import { InneComponent } from './inne/inne.component';
 import { ChartComponent } from './chart/chart.component';
 import { Chart2Component } from './chart2/chart2.component';
+import { ToastrModule } from 'ngx-toastr';
+
+import { DataTableComponent } from './data-table/data-table.component';
+import { MatTableModule } from '@angular/material/table';
+import { MatPaginatorModule } from '@angular/material/paginator';
+import { MatSortModule } from '@angular/material/sort';
 
 @NgModule({
   declarations: [
@@ -28,6 +33,7 @@ import { Chart2Component } from './chart2/chart2.component';
     InneComponent,
     ChartComponent,
     Chart2Component,
+    DataTableComponent,
   ],
   imports: [
     BrowserModule,
@@ -35,7 +41,14 @@ import { Chart2Component } from './chart2/chart2.component';
     HttpClientModule,
     BrowserAnimationsModule,
     FormsModule,
+
     BsDropdownModule.forRoot(),
+    ToastrModule.forRoot({
+      positionClass: 'toast-botton-right',
+    }),
+    MatTableModule,
+    MatPaginatorModule,
+    MatSortModule,
   ],
   providers: [],
   bootstrap: [AppComponent],

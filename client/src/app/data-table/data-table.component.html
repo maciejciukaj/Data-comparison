@@ -1,0 +1,52 @@
+<p>data-table works!</p>
+<!--<mat-table style="width: auto" class="mat-elevation-z8" [dataSource]="arrDane">
+  <ng-container matColumnDef="id">
+    <mat-header-cell *matHeaderCellDef>ID</mat-header-cell>
+    <mat-cell *matCellDef="let ar">{{ ar.id }}</mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="kod">
+    <mat-header-cell *matHeaderCellDef>Kod</mat-header-cell>
+    <mat-cell *matCellDef="let ar">{{ ar.kod }}</mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="nazwa">
+    <mat-header-cell *matHeaderCellDef>Nazwa</mat-header-cell>
+    <mat-cell *matCellDef="let ar">{{ ar.nazwa }}</mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="rok">
+    <mat-header-cell *matHeaderCellDef>Rok</mat-header-cell>
+    <mat-cell *matCellDef="let ar">{{ ar.rok }}</mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="wartosc">
+    <mat-header-cell *matHeaderCellDef>Wartość</mat-header-cell>
+    <mat-cell *matCellDef="let ar">{{ ar.wartosc }}</mat-cell>
+  </ng-container>
+
+  <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+
+  <mat-row *matRowDef="let ar; columns: displayedColumns"></mat-row>
+</mat-table>
+-->
+<mat-table style="width: auto" class="mat-elevation-z8" [dataSource]="lessons">
+  <ng-container matColumnDef="seqNo">
+    <mat-header-cell *matHeaderCellDef>#</mat-header-cell>
+    <mat-cell *matCellDef="let lesson">{{ lesson.seqNo }}</mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="description">
+    <mat-header-cell *matHeaderCellDef>Description</mat-header-cell>
+    <mat-cell *matCellDef="let lesson">{{ lesson.description }}</mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="duration">
+    <mat-header-cell *matHeaderCellDef>Duration</mat-header-cell>
+    <mat-cell *matCellDef="let lesson">{{ lesson.duration }}</mat-cell>
+  </ng-container>
+
+  <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+
+  <mat-row *matRowDef="let lesson; columns: displayedColumns"></mat-row>
+</mat-table>

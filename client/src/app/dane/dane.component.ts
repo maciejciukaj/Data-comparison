@@ -1,5 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
+import * as rxjs from 'rxjs';
+import * as rxops from 'rxjs/operators';
 
 @Component({
   selector: 'app-dane',
@@ -8,6 +10,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class DaneComponent implements OnInit {
   dane: any;
+  arr = [];
   constructor(private http: HttpClient) {}
 
   ngOnInit(): void {
@@ -17,9 +20,8 @@ export class DaneComponent implements OnInit {
   getDane() {
     return this.http
       .get('https://localhost:5001/api/ceny/getCenyBaza/')
-      .subscribe({
-        next: (response) => (this.dane = response),
-        error: (error) => console.log(error),
+      .subscribe((res) => {
+        this.dane = res;
       });
   }
 }

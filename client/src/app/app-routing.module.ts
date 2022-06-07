@@ -6,12 +6,20 @@ import { HomeComponent } from './home/home.component';
 import { InneComponent } from './inne/inne.component';
 
 import { WykresComponent } from './wykres/wykres.component';
+import { AuthGuard } from './_guards/auth.guard';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
-  { path: 'wykres', component: WykresComponent },
-  { path: 'dane', component: DaneComponent },
-  { path: 'inne', component: InneComponent },
+  {
+    path: '',
+    runGuardsAndResolvers: 'always',
+    canActivate: [AuthGuard],
+    children: [
+      { path: 'wykres', component: WykresComponent },
+      { path: 'dane', component: DaneComponent },
+      { path: 'inne', component: InneComponent },
+    ],
+  },
   { path: '**', component: HomeComponent, pathMatch: 'full' },
 ];
 
