@@ -1,5 +1,6 @@
 import { HttpClient } from '@angular/common/http';
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
+import { MatPaginator } from '@angular/material/paginator';
 
 @Component({
   selector: 'app-data-table',
@@ -7,8 +8,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./data-table.component.css'],
 })
 export class DataTableComponent implements OnInit {
-  //displayedColumns = ['id', 'kod', 'nazwa', 'rok', 'wartosc'];
-  displayedColumns = ['seqNo', 'description', 'duration'];
+  displayedColumns = ['id', 'kod', 'nazwa', 'rok', 'wartosc'];
+  //displayedColumns = ['seqNo', 'description', 'duration'];
   dane: any;
   arrDane = [];
 
@@ -36,11 +37,13 @@ export class DataTableComponent implements OnInit {
 
   getDane() {
     return this.http
-      .get('https://localhost:5001/api/ceny/getCenyBaza/')
+      .get('https://localhost:5001/api/wynagrodzenia/getWynagrodzeniaBaza/')
       .subscribe((res) => {
         this.dane = res;
         this.arrDane = [this.dane];
-        console.log(this.arrDane);
+
+        console.log(this.dane);
+        console.log(this.lessons);
       });
   }
 }

@@ -21,6 +21,7 @@ import { DataTableComponent } from './data-table/data-table.component';
 import { MatTableModule } from '@angular/material/table';
 import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatSortModule } from '@angular/material/sort';
+import { DataTable2Component } from './data-table2/data-table2.component';
 
 @NgModule({
   declarations: [
@@ -34,6 +35,7 @@ import { MatSortModule } from '@angular/material/sort';
     ChartComponent,
     Chart2Component,
     DataTableComponent,
+    DataTable2Component,
   ],
   imports: [
     BrowserModule,

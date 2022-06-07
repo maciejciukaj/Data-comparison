@@ -15,6 +15,11 @@
       <mat-cell *matCellDef="let ar">{{ ar.nazwa }}</mat-cell>
     </ng-container>
 
+    <ng-container matColumnDef="rodzajTowaru">
+      <mat-header-cell *matHeaderCellDef>RodzajTowaru</mat-header-cell>
+      <mat-cell *matCellDef="let ar">{{ ar.rodzajeTowaru }}</mat-cell>
+    </ng-container>
+
     <ng-container matColumnDef="rok">
       <mat-header-cell *matHeaderCellDef>Rok</mat-header-cell>
       <mat-cell *matCellDef="let ar">{{ ar.rok }}</mat-cell>
@@ -38,26 +43,3 @@
   >
   </mat-paginator>
 </div>
-
-<!--
-<mat-table style="width: auto" class="mat-elevation-z8" [dataSource]="lessons">
-  <ng-container matColumnDef="seqNo">
-    <mat-header-cell *matHeaderCellDef>#</mat-header-cell>
-    <mat-cell *matCellDef="let lesson">{{ lesson.seqNo }}</mat-cell>
-  </ng-container>
-
-  <ng-container matColumnDef="description">
-    <mat-header-cell *matHeaderCellDef>Description</mat-header-cell>
-    <mat-cell *matCellDef="let lesson">{{ lesson.description }}</mat-cell>
-  </ng-container>
-
-  <ng-container matColumnDef="duration">
-    <mat-header-cell *matHeaderCellDef>Duration</mat-header-cell>
-    <mat-cell *matCellDef="let lesson">{{ lesson.duration }}</mat-cell>
-  </ng-container>
-
-  <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
-
-  <mat-row *matRowDef="let lesson; columns: displayedColumns"></mat-row>
-</mat-table>
--->

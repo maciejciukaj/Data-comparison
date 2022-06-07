@@ -1,29 +1,28 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
-import * as rxjs from 'rxjs';
-import * as rxops from 'rxjs/operators';
 
 @Component({
-  selector: 'app-dane',
-  templateUrl: './dane.component.html',
-  styleUrls: ['./dane.component.css'],
+  selector: 'app-data-table2',
+  templateUrl: './data-table2.component.html',
+  styleUrls: ['./data-table2.component.css'],
 })
-export class DaneComponent implements OnInit {
+export class DataTable2Component implements OnInit {
+  displayedColumns = ['id', 'kod', 'nazwa', 'rok', 'wartosc'];
+  //displayedColumns = ['seqNo', 'description', 'duration'];
   dane: any;
-  arr = [];
+
   constructor(private http: HttpClient) {}
 
   ngOnInit(): void {
     this.getDane();
   }
-
   getDane() {
     return this.http
       .get('https://localhost:5001/api/ceny/getCenyBaza/')
       .subscribe((res) => {
         this.dane = res;
 
-        
+        console.log(this.dane);
       });
   }
 }
