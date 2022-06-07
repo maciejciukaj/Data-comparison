@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./data-table2.component.css'],
 })
 export class DataTable2Component implements OnInit {
-  displayedColumns = ['id', 'kod', 'nazwa', 'rok', 'wartosc'];
+  displayedColumns = ['id', 'kod', 'nazwa', 'rodzajTowaru', 'rok', 'wartosc'];
   //displayedColumns = ['seqNo', 'description', 'duration'];
   dane: any;
 
