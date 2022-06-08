@@ -1,7 +1,18 @@
 <div class="container">
-  <mat-table style="width: auto" class="mat-elevation-z8" [dataSource]="dane">
+  <mat-table
+    style="width: auto"
+    class="mat-elevation-z8"
+    [dataSource]="dataSource"
+    matSort
+    (matSortChange)="announceSortChange($event)"
+  >
     <ng-container matColumnDef="id">
-      <mat-header-cell *matHeaderCellDef>ID</mat-header-cell>
+      <mat-header-cell
+        *matHeaderCellDef
+        mat-sort-header
+        sortActionDescription="Sort by number"
+        >ID</mat-header-cell
+      >
       <mat-cell *matCellDef="let ar">{{ ar.id }}</mat-cell>
     </ng-container>
 
@@ -11,7 +22,12 @@
     </ng-container>
 
     <ng-container matColumnDef="nazwa">
-      <mat-header-cell *matHeaderCellDef>Nazwa</mat-header-cell>
+      <mat-header-cell
+        *matHeaderCellDef
+        mat-sort-header
+        sortActionDescription="Sort by name"
+        >Nazwa</mat-header-cell
+      >
       <mat-cell *matCellDef="let ar">{{ ar.nazwa }}</mat-cell>
     </ng-container>
 
@@ -21,7 +37,12 @@
     </ng-container>
 
     <ng-container matColumnDef="wartosc">
-      <mat-header-cell *matHeaderCellDef>Wartość</mat-header-cell>
+      <mat-header-cell
+        *matHeaderCellDef
+        mat-sort-header
+        sortActionDescription="Sort by name"
+        >Wartość</mat-header-cell
+      >
       <mat-cell *matCellDef="let ar">{{ ar.wartosc }}</mat-cell>
     </ng-container>
 
@@ -31,9 +52,8 @@
   </mat-table>
 
   <mat-paginator
-    [length]="1000"
-    [pageSize]="10"
-    [pageSizeOptions]="[5, 10, 25, 100]"
+    #paginator
+    [pageSizeOptions]="[10, 20, 50, 100]"
     aria-label="Select page"
   >
   </mat-paginator>

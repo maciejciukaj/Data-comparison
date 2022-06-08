@@ -16,3 +16,6 @@
 .btn-login:hover {
   background-color: rgb(74, 115, 226);
 }
+.nav-item {
+  margin-right: 40px;
+}

@@ -1,6 +1,10 @@
+import { LiveAnnouncer } from '@angular/cdk/a11y';
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit, ViewChild } from '@angular/core';
 import { MatPaginator } from '@angular/material/paginator';
+import { MatSort, Sort } from '@angular/material/sort';
+import { MatTableDataSource } from '@angular/material/table';
+import { Wynagrodzenie } from '../_models/wynagrodzenie';
 
 @Component({
   selector: 'app-data-table',
@@ -8,28 +12,19 @@ import { MatPaginator } from '@angular/material/paginator';
   styleUrls: ['./data-table.component.css'],
 })
 export class DataTableComponent implements OnInit {
-  displayedColumns = ['id', 'kod', 'nazwa', 'rok', 'wartosc'];
-  //displayedColumns = ['seqNo', 'description', 'duration'];
-  dane: any;
-  arrDane = [];
+  @ViewChild('paginator') paginator: MatPaginator;
+  @ViewChild(MatSort) sort: MatSort;
 
-  lessons = [
-    {
-      id: 120,
-      description: 'Introduction to Angular Material',
-      duration: '4:17',
-      seqNo: 1,
-      courseId: 11,
-    },
-    {
-      id: 105,
-      description: 'Introduction to Material',
-      duration: '4:50',
-      seqNo: 2,
-      courseId: 1,
-    },
-  ];
-  constructor(private http: HttpClient) {}
+  displayedColumns = ['id', 'kod', 'nazwa', 'rok', 'wartosc'];
+
+  dane: any;
+
+  dataSource: MatTableDataSource<Wynagrodzenie>;
+
+  constructor(
+    private http: HttpClient,
+    private _liveAnnouncer: LiveAnnouncer
+  ) {}
 
   ngOnInit(): void {
     this.getDane();
@@ -40,10 +35,22 @@ export class DataTableComponent implements OnInit {
       .get('https://localhost:5001/api/wynagrodzenia/getWynagrodzeniaBaza/')
       .subscribe((res) => {
         this.dane = res;
-        this.arrDane = [this.dane];
-
         console.log(this.dane);
-        console.log(this.lessons);
+        this.dataSource = new MatTableDataSource(this.dane);
+        this.dataSource.paginator = this.paginator;
+        this.dataSource.sort = this.sort;
       });
+  }
+
+  announceSortChange(sortState: Sort) {
+    // This example uses English messages. If your application supports
+    // multiple language, you would internationalize these strings.
+    // Furthermore, you can customize the message to add additional
+    // details about the values being sorted.
+    if (sortState.direction) {
+      this._liveAnnouncer.announce(`Sorted ${sortState.direction}ending`);
+    } else {
+      this._liveAnnouncer.announce('Sorting cleared');
+    }
   }
 }
