@@ -46,7 +46,7 @@ import { DataTable2Component } from './data-table2/data-table2.component';
 
     BsDropdownModule.forRoot(),
     ToastrModule.forRoot({
-      positionClass: 'toast-botton-right',
+      positionClass: 'toast-bottom-right',
     }),
     MatTableModule,
     MatPaginatorModule,

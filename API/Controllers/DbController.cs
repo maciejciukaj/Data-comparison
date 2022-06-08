@@ -5,6 +5,7 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using API.Data;
 using API.Entities;
+using API.Json;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
@@ -108,6 +109,18 @@ namespace API.Controllers
                 _db.CenyProduktow.Add(ceny);
                 await _db.SaveChangesAsync();
             }
+        }
+    
+        [HttpGet("saveJson")]
+        public void saveToJson(){
+            List<Wojewodztwo> newListToJson = Pobierz.Download();
+            Zapisz.SaveJSON(newListToJson);
+        }
+
+         [HttpGet("saveXML")]
+        public void saveToXML(){
+            List<Wojewodztwo> newListToJson = Pobierz.Download();
+            Zapisz.SaveXML(newListToJson);
         }
 
     }

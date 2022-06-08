@@ -11,6 +11,24 @@ import { registerables } from 'node_modules/chart.js';
 export class Chart2Component implements OnInit {
   cenyChartDane: any;
   cenyWartosci: any;
+  wojewodztwa: [
+    'LUBELSKIE',
+    'MAZOWIECKIE',
+    'DOLNOŚLĄSKIE',
+    'ŚWIĘTOKRZYSKIE',
+    'KUJAWSKO-POMORSKIE',
+    'LUBUSKIE',
+    'MAŁOPOLSKIE',
+    'PODKARPACKIE',
+    'POMORSKIE',
+    'ŁÓDZKIE',
+    'OPOLSKIE',
+    'PODLASKIE',
+    'ŚLĄSKIE',
+    'WARMIŃSKO-MAZURSKIE',
+    'WIELKOPOLSKIE',
+    'ZACHODNIOPOMORSKIE'
+  ];
 
   constructor(private http: HttpClient) {
     Chart.register(...registerables);

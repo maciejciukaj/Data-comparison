@@ -2,6 +2,7 @@
   float: left;
   display: flex;
   justify-content: center;
+  margin-bottom: 50px;
 }
 .graph2 {
   float: left;
@@ -9,4 +10,10 @@
   display: flex;
   justify-content: center;
   margin-top: 100px;
+}
+.napis {
+  margin-top: 100px;
+  float: left;
+  display: flex;
+  justify-content: center;
 }

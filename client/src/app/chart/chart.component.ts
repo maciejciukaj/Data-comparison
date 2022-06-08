@@ -13,7 +13,25 @@ export class ChartComponent implements OnInit {
   wynagrodzenieWartosci: any;
   selectedWoj: any;
   value: any;
-  wojewodztwa: any;
+
+  wojewodztwa: [
+    { name: 'LUBELSKIE' },
+    { name: 'MAZOWIECKIE' },
+    { name: 'DOLNOŚLĄSKIE' },
+    { name: 'ŚWIĘTOKRZYSKIE' },
+    { name: 'KUJAWSKO-POMORSKIE' },
+    { name: 'LUBUSKIE' },
+    { name: 'MAŁOPOLSKIE' },
+    { name: 'PODKARPACKIE' },
+    { name: 'POMORSKIE' },
+    { name: 'ŁÓDZKIE' },
+    { name: 'OPOLSKIE' },
+    { name: 'PODLASKIE' },
+    { name: 'ŚLĄSKIE' },
+    { name: 'WARMIŃSKO-MAZURSKIE' },
+    { name: 'WIELKOPOLSKIE' },
+    { name: 'ZACHODNIOPOMORSKIE' }
+  ];
 
   constructor(private http: HttpClient) {
     Chart.register(...registerables);
