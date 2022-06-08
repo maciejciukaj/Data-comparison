@@ -2,7 +2,9 @@
   display: flex;
   width: 700px;
   height: 300px;
+  justify-content: center;
 }
 .wykresForm {
   margin-bottom: 30px;
+  
 }

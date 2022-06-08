@@ -13,8 +13,9 @@ export class ChartComponent implements OnInit {
   wynagrodzenieWartosci: any;
   selectedWoj: any;
   value: any;
+  myChart: any;
 
-  wojewodztwa: [
+  wojewodztwa = [
     { name: 'LUBELSKIE' },
     { name: 'MAZOWIECKIE' },
     { name: 'DOLNOŚLĄSKIE' },
@@ -30,7 +31,7 @@ export class ChartComponent implements OnInit {
     { name: 'ŚLĄSKIE' },
     { name: 'WARMIŃSKO-MAZURSKIE' },
     { name: 'WIELKOPOLSKIE' },
-    { name: 'ZACHODNIOPOMORSKIE' }
+    { name: 'ZACHODNIOPOMORSKIE' },
   ];
 
   constructor(private http: HttpClient) {
@@ -38,19 +39,26 @@ export class ChartComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.getDaneWynLata();
+    this.value = 'LUBELSKIE';
+    this.getDaneWynLata(this.value);
   }
 
-  getDaneWynLata() {
+  generateChart() {
+    console.log(this.value);
+    this.myChart.destroy();
+    this.getDaneWynLata(this.value);
+  }
+
+  getDaneWynLata(value: any) {
     this.http
       .get(
-        'https://localhost:5001/api/wynagrodzenia/getWynagrodzeniaBaza/LUBELSKIE'
+        'https://localhost:5001/api/wynagrodzenia/getWynagrodzeniaBaza/' + value
       )
       .subscribe((response) => {
         this.wynagrodzeniaChartDane = response;
         let tablicaL = [];
         let tablicaW = [];
-        let nazwaWoj = 'LUBELSKIE';
+        let nazwaWoj = value;
         for (let item of this.wynagrodzeniaChartDane) {
           tablicaL.push(item.rok);
         }
@@ -58,13 +66,12 @@ export class ChartComponent implements OnInit {
           tablicaW.push(item.wartosc);
         }
         this.getChart(tablicaL, tablicaW, nazwaWoj);
-        console.log(this.wojewodztwa);
       });
   }
 
   getChart(daneL: any, daneW: any, nazwaWoj: any) {
     const ctx = document.getElementById('myChart');
-    const myChart = new Chart('myChart', {
+    this.myChart = new Chart('myChart', {
       type: 'line',
       data: {
         labels: /* [

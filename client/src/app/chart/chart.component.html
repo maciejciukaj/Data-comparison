@@ -1,10 +1,11 @@
-<form class="wykresForm">
+<form class="wykresForm mb-5">
   Wybierz województwo:
-  <select>
-    <option *ngFor="let woj of wojewodztwa" value="{{ woj.name }}">
-      {{ woj.name }}}
+  <select [(ngModel)]="value" name="first">
+    <option *ngFor="let item of wojewodztwa">
+      {{ item.name }}
     </option>
   </select>
+  <button (click)="generateChart()" class="ml-3 btn btn-warning">Pokaż</button>
 </form>
 <div id="divChart">
   <canvas id="myChart"></canvas>

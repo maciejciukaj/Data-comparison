@@ -11,23 +11,38 @@ import { registerables } from 'node_modules/chart.js';
 export class Chart2Component implements OnInit {
   cenyChartDane: any;
   cenyWartosci: any;
-  wojewodztwa: [
-    'LUBELSKIE',
-    'MAZOWIECKIE',
-    'DOLNOŚLĄSKIE',
-    'ŚWIĘTOKRZYSKIE',
-    'KUJAWSKO-POMORSKIE',
-    'LUBUSKIE',
-    'MAŁOPOLSKIE',
-    'PODKARPACKIE',
-    'POMORSKIE',
-    'ŁÓDZKIE',
-    'OPOLSKIE',
-    'PODLASKIE',
-    'ŚLĄSKIE',
-    'WARMIŃSKO-MAZURSKIE',
-    'WIELKOPOLSKIE',
-    'ZACHODNIOPOMORSKIE'
+
+  chosenProduct: any;
+  chosenRegion: any;
+  myChart: any;
+
+  wojewodztwa = [
+    { name: 'LUBELSKIE' },
+    { name: 'MAZOWIECKIE' },
+    { name: 'DOLNOŚLĄSKIE' },
+    { name: 'ŚWIĘTOKRZYSKIE' },
+    { name: 'KUJAWSKO-POMORSKIE' },
+    { name: 'LUBUSKIE' },
+    { name: 'MAŁOPOLSKIE' },
+    { name: 'PODKARPACKIE' },
+    { name: 'POMORSKIE' },
+    { name: 'ŁÓDZKIE' },
+    { name: 'OPOLSKIE' },
+    { name: 'PODLASKIE' },
+    { name: 'ŚLĄSKIE' },
+    { name: 'WARMIŃSKO-MAZURSKIE' },
+    { name: 'WIELKOPOLSKIE' },
+    { name: 'ZACHODNIOPOMORSKIE' },
+  ];
+  towary = [
+    { name: 'ryż - za 1kg' },
+    { name: 'bułka pszenna - za 50g' },
+    { name: 'chleb żytni razowy zwykły - za 1kg' },
+    { name: 'mąka pszenna - za 1kg' },
+    { name: 'kasza jęczmienna - za 0,5kg' },
+    { name: 'mięso wołowe z kością (rostbef) - za 1kg' },
+    { name: 'kiełbasa wędzona - za 1kg' },
+    { name: 'boczek wędzony - za 1kg' },
   ];
 
   constructor(private http: HttpClient) {
@@ -35,46 +50,46 @@ export class Chart2Component implements OnInit {
   }
 
   ngOnInit(): void {
-    this.getDaneCenyLata();
+    this.chosenProduct = 'kiełbasa wędzona - za 1kg';
+    this.chosenRegion = 'LUBELSKIE';
+    this.getDaneCenyLata(this.chosenRegion, this.chosenProduct);
   }
 
-  getDaneCenyLata() {
-    this.http
-      .get('https://localhost:5001/api/ceny/getCenyBaza/LUBELSKIE/ryż - za 1kg')
-      .subscribe((response) => {
-        this.cenyChartDane = response;
-        let tablicaL = [];
-        let tablicaW = [];
-        let nazwaTowaru = 'ryż - za 1 kg';
-        let nazwaWoj = 'LUBELSKIE';
-        for (let item of this.cenyChartDane) {
-          tablicaL.push(item.rok);
-        }
-        for (let item of this.cenyChartDane) {
-          tablicaW.push(item.wartosc);
-        }
-        this.getChart(tablicaL, tablicaW, nazwaWoj, nazwaTowaru);
-      });
+  generateChart() {
+    console.log(this.chosenProduct + this.chosenRegion);
+    let costam = `https://localhost:5001/api/ceny/getCenyBaza/LUBELSKIE/${this.chosenProduct}`;
+    costam = encodeURI(costam);
+    console.log(costam);
+    this.myChart.destroy();
+    this.getDaneCenyLata(this.chosenRegion, this.chosenProduct);
+  }
+
+  getDaneCenyLata(chosenProduct: any, chosenRegion: any) {
+    let encoded = encodeURI(
+      `https://localhost:5001/api/ceny/getCenyBaza/${this.chosenRegion}/${this.chosenProduct}`
+    );
+    this.http.get(encoded).subscribe((response) => {
+      this.cenyChartDane = response;
+      let tablicaL = [];
+      let tablicaW = [];
+      let nazwaTowaru = chosenProduct;
+      let nazwaWoj = chosenRegion;
+      for (let item of this.cenyChartDane) {
+        tablicaL.push(item.rok);
+      }
+      for (let item of this.cenyChartDane) {
+        tablicaW.push(item.wartosc);
+      }
+      this.getChart(tablicaL, tablicaW, nazwaWoj, nazwaTowaru);
+    });
   }
 
   getChart(daneL: any, daneW: any, nazwaWoj: any, nazwaTowaru: any) {
     const ctx = document.getElementById('myChart');
-    const myChart = new Chart('myChart2', {
+    this.myChart = new Chart('myChart2', {
       type: 'line',
       data: {
-        labels: /* [
-          '2011',
-          '2012',
-          '2013',
-          '2014',
-          '2015',
-          '2016',
-          '2017',
-          '2018',
-          '2019',
-          '2020',
-          '2021',
-        ]*/ daneL,
+        labels: daneL,
         datasets: [
           {
             label: 'Ceny -- ' + nazwaTowaru + ' -- ' + nazwaWoj,

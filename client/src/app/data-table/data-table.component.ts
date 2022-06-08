@@ -35,7 +35,7 @@ export class DataTableComponent implements OnInit {
       .get('https://localhost:5001/api/wynagrodzenia/getWynagrodzeniaBaza/')
       .subscribe((res) => {
         this.dane = res;
-        console.log(this.dane);
+       
         this.dataSource = new MatTableDataSource(this.dane);
         this.dataSource.paginator = this.paginator;
         this.dataSource.sort = this.sort;
