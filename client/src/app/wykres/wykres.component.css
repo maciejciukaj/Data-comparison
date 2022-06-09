@@ -1,19 +1,10 @@
 .graph1 {
-  float: left;
   display: flex;
   justify-content: center;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 .graph2 {
-  float: left;
-  clear: left;
   display: flex;
   justify-content: center;
-  margin-top: 100px;
-}
-.napis {
-  margin-top: 100px;
-  float: left;
-  display: flex;
-  justify-content: center;
+  margin-top: 50px;
 }
