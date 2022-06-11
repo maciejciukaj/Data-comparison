@@ -110,6 +110,26 @@ namespace API.Controllers
                 await _db.SaveChangesAsync();
             }
         }
+
+        [HttpDelete("usunWynagrodzenie/{idW}")]
+        public  async void usunWynagrodzenie(int idW){
+            var wynToRemove = _db.Wynagrodzenia.SingleOrDefault(x => x.Id == idW);
+           if(wynToRemove != null){
+            _db.Wynagrodzenia.Remove(wynToRemove);
+            await _db.SaveChangesAsync();
+            }
+           
+        }
+
+        [HttpDelete("usunProdukt/{idW}")]
+        public  async void usunProdukt(int idW){
+            var wynToRemove = _db.CenyProduktow.SingleOrDefault(x => x.Id == idW);
+           if(wynToRemove != null){
+            _db.CenyProduktow.Remove(wynToRemove);
+            await _db.SaveChangesAsync();
+            }
+           
+        }
     
         [HttpGet("saveJson")]
         public void saveToJson(){

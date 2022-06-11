@@ -1,1 +1,80 @@
 <app-data-table2></app-data-table2>
+<div class="container border-top border-bottom">
+  <div class="display-4 d-flex justify-content-center mt-4">Dodaj produkt</div>
+  <form
+    class="mt-5 d-flex justify-content-center"
+    (ngSubmit)="addDane({model})"
+  >
+    <table class="form-group">
+      <tr>
+        <th><label for="kod">Kod: </label></th>
+        <th>
+          <input
+            type="text form-control"
+            [(ngModel)]="model.Kod"
+            id="kod"
+            name="kod"
+          />
+        </th>
+      </tr>
+      <tr>
+        <th><label for="nazwa" class="">Nazwa województwa: </label></th>
+        <th>
+          <input
+            type="text form-control"
+            [(ngModel)]="model.Nazwa"
+            id="nazwa"
+            name="nazwa"
+          />
+        </th>
+      </tr>
+      <tr>
+        <th><label for="rodzajeTowaru">Nazwa produktu: </label></th>
+        <th>
+          <input
+            type="text form-control"
+            [(ngModel)]="model.rodzajeTowaru"
+            id="rodzajeTowaru"
+            name="rodzajeTowaru"
+          />
+        </th>
+      </tr>
+      <tr>
+        <th><label for="rok" class="mr-3">Rok: </label></th>
+        <th>
+          <input
+            type="text form-control"
+            [(ngModel)]="model.Rok"
+            id="rok"
+            name="rok"
+          />
+        </th>
+      </tr>
+      <tr>
+        <th>
+          <label for="wartosc" class="mr-3">Wartość: </label>
+        </th>
+        <th>
+          <input
+            type="text form-control"
+            [(ngModel)]="model.Wartosc"
+            id="wartosc"
+            name="wartosc"
+          />
+        </th>
+      </tr>
+    </table>
+    <button class="btn row btn-success ml-3" type="submit">Dodaj dane</button>
+  </form>
+</div>
+<div class="display-4 d-flex justify-content-center mt-4 mb-3">Usuń rekord</div>
+<form
+  class="d-flex justify-content-center form-group border-bottom end"
+  (ngSubmit)="deleteDane()"
+>
+  <label for="id" class="mr-3">Id rekordu: </label>
+
+  <input type="text form-control" [(ngModel)]="idDelete" id="id" name="id" />
+
+  <button class="btn row btn-warning ml-3" type="submit">Usuń dane</button>
+</form>

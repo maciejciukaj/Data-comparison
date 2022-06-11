@@ -116,6 +116,16 @@ export class ChartComponent implements OnInit {
         scales: {
           y: {
             beginAtZero: true,
+            title: {
+              display: true,
+              text: 'Wynagrodzenie w zł',
+            },
+          },
+          x: {
+            title: {
+              display: true,
+              text: 'Lata',
+            },
           },
         },
       },

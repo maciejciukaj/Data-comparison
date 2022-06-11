@@ -88,6 +88,7 @@ export class Chart2Component implements OnInit {
     const ctx = document.getElementById('myChart');
     this.myChart = new Chart('myChart2', {
       type: 'line',
+
       data: {
         labels: daneL,
         datasets: [
@@ -118,6 +119,16 @@ export class Chart2Component implements OnInit {
         scales: {
           y: {
             beginAtZero: true,
+            title: {
+              display: true,
+              text: 'Cena produktu w zł',
+            },
+          },
+          x: {
+            title: {
+              display: true,
+              text: 'Lata',
+            },
           },
         },
       },

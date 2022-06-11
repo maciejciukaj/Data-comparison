@@ -49,6 +49,8 @@ namespace API.Controllers
             return await _context.Wynagrodzenia.ToListAsync();
         }
 
+        
+
          [HttpGet("getWynagrodzeniaBaza/{nazwa}")]
         public async Task<ActionResult<IEnumerable<Entities.WynagrodzenieE>>> GetWynagrodzeniaBazaNazwa(string nazwa){
             
