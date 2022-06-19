@@ -1,8 +1,14 @@
-import { HttpClient } from '@angular/common/http';
-import { Component, OnInit } from '@angular/core';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
+import { Component, Injectable, OnInit } from '@angular/core';
 import { Chart } from 'node_modules/chart.js';
 import { registerables } from 'node_modules/chart.js';
 
+const httpOptions = {
+  headers: new HttpHeaders({
+    Authorization: 'Bearer ' + JSON.parse(localStorage.getItem('user'))?.token,
+  }),
+};
+@Injectable({ providedIn: 'root' })
 @Component({
   selector: 'app-chart',
   templateUrl: './chart.component.html',
@@ -52,7 +58,9 @@ export class ChartComponent implements OnInit {
   getDaneWynLata(value: any) {
     this.http
       .get(
-        'https://localhost:5001/api/wynagrodzenia/getWynagrodzeniaBaza/' + value
+        'https://localhost:5001/api/wynagrodzenia/getWynagrodzeniaBaza/' +
+          value,
+        httpOptions
       )
       .subscribe((response) => {
         this.wynagrodzeniaChartDane = response;

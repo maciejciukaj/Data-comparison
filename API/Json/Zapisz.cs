@@ -13,7 +13,7 @@ namespace API.Json
             System.Xml.Serialization.XmlSerializer writer = new System.Xml.Serialization.XmlSerializer(typeof(List<Wojewodztwo>));
 
             string workingDirectory = Environment.CurrentDirectory;
-            var path = Directory.GetParent(workingDirectory).Parent.Parent.FullName + "/Desktop/integracja-projekt/API/Json/Assets/BazaXML.xml";
+            var path = Directory.GetParent(workingDirectory).Parent.Parent.FullName + "/Desktop/projekt-wykresy/API/Json/Assets/BazaXML.xml";
             System.IO.FileStream file = System.IO.File.Create(path);
 
             writer.Serialize(file, woj);
@@ -23,7 +23,7 @@ namespace API.Json
         public static void SaveJSON(List<Wojewodztwo> woj)
         {
             string workingDirectory = Environment.CurrentDirectory;
-            var path = Directory.GetParent(workingDirectory).Parent.Parent.FullName + "/Desktop/integracja-projekt/API/Json/Assets/BazaJSON.json";
+            var path = Directory.GetParent(workingDirectory).Parent.Parent.FullName + "/Desktop/projekt-wykresy/API/Json/Assets/BazaJSON.json";
 
             // serialize JSON to a string and then write string to a file
             File.WriteAllText(path, JsonConvert.SerializeObject(woj, Newtonsoft.Json.Formatting.None));

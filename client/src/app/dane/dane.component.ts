@@ -1,9 +1,13 @@
-import { HttpClient } from '@angular/common/http';
-import { Component, OnInit } from '@angular/core';
-import { ToastrService } from 'ngx-toastr';
-import * as rxjs from 'rxjs';
-import * as rxops from 'rxjs/operators';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
+import { Component, Injectable, OnInit } from '@angular/core';
 
+import { ToastrService } from 'ngx-toastr';
+const httpOptions = {
+  headers: new HttpHeaders({
+    Authorization: 'Bearer ' + JSON.parse(localStorage.getItem('user'))?.token,
+  }),
+};
+@Injectable({ providedIn: 'root' })
 @Component({
   selector: 'app-dane',
   templateUrl: './dane.component.html',
@@ -30,26 +34,40 @@ export class DaneComponent implements OnInit {
 
   addDane() {
     return this.http
-      .post('https://localhost:5001/api/db/dodajWynagrodzenie', this.model)
-      .subscribe((res) => {
-        console.log(res);
-        this.toastr.info('Dodano rekord do bazy');
-      });
+      .post(
+        'https://localhost:5001/api/db/dodajWynagrodzenie',
+        this.model,
+        httpOptions
+      )
+      .subscribe(
+        (res) => {
+          console.log(res);
+          this.toastr.info('Dodano rekord do bazy');
+        },
+        (error) => {
+          this.toastr.error('Brak uprawnien');
+        }
+      );
   }
 
   deleteDane() {
     return this.http
       .delete(
-        'https://localhost:5001/api/db/usunWynagrodzenie/' + this.idDelete
+        'https://localhost:5001/api/db/usunWynagrodzenie/' + this.idDelete,
+        httpOptions
       )
       .subscribe(
         (res) => {
           console.log(res);
           this.toastr.error('Usunięto rekord z bazy');
+          this.ngOnInit();
         },
         (error) => {
-          console.log(error);
+          this.toastr.error('Brak uprawnien');
         }
       );
+  }
+  refresh(): void {
+    window.location.reload();
   }
 }

@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { HttpClientModule } from '@angular/common/http';
+import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -22,6 +22,12 @@ import { MatTableModule } from '@angular/material/table';
 import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatSortModule } from '@angular/material/sort';
 import { DataTable2Component } from './data-table2/data-table2.component';
+
+import { JwtInterceptor, JwtModule } from '@auth0/angular-jwt';
+
+export function getToken() {
+  return localStorage.getItem('token');
+}
 
 @NgModule({
   declarations: [
@@ -51,6 +57,11 @@ import { DataTable2Component } from './data-table2/data-table2.component';
     MatTableModule,
     MatPaginatorModule,
     MatSortModule,
+    JwtModule.forRoot({
+      config: {
+        tokenGetter: getToken,
+      },
+    }),
   ],
   providers: [],
   bootstrap: [AppComponent],

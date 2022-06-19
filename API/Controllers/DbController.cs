@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using API.Data;
 using API.Entities;
 using API.Json;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
@@ -19,7 +20,7 @@ namespace API.Controllers
     {
         _db = db;
     }
-
+        [Authorize]
         [HttpPost("dodajWynagrodzenie")]
         public async Task<ActionResult<WynagrodzenieE>> dodajWynagrodzenie(WynagrodzenieE wyn){
 
@@ -45,7 +46,8 @@ namespace API.Controllers
             };
 
         }
-
+        
+        [Authorize]
         [HttpPost("dodajCeneProduktu")]
         public async Task<ActionResult<CenaProduktuE>> dodajCeneProduktu(CenaProduktuE cena){
 
@@ -74,6 +76,8 @@ namespace API.Controllers
 
         }
 
+
+
         [HttpPost("dodajAllWynagrodzenia")]
         public async void dodajAllWynagrodzenia(){
 
@@ -92,6 +96,7 @@ namespace API.Controllers
             }
         }
 
+       
         [HttpPost("dodajAllCeny")]
         public async void dodajAllCeny(){
 
@@ -111,6 +116,7 @@ namespace API.Controllers
             }
         }
 
+        [Authorize]
         [HttpDelete("usunWynagrodzenie/{idW}")]
         public  async void usunWynagrodzenie(int idW){
             var wynToRemove = _db.Wynagrodzenia.SingleOrDefault(x => x.Id == idW);
@@ -121,6 +127,7 @@ namespace API.Controllers
            
         }
 
+        [Authorize]
         [HttpDelete("usunProdukt/{idW}")]
         public  async void usunProdukt(int idW){
             var wynToRemove = _db.CenyProduktow.SingleOrDefault(x => x.Id == idW);
@@ -130,14 +137,15 @@ namespace API.Controllers
             }
            
         }
-    
+        [Authorize]
         [HttpGet("saveJson")]
         public void saveToJson(){
             List<Wojewodztwo> newListToJson = Pobierz.Download();
             Zapisz.SaveJSON(newListToJson);
         }
 
-         [HttpGet("saveXML")]
+        [Authorize]
+        [HttpGet("saveXML")]
         public void saveToXML(){
             List<Wojewodztwo> newListToJson = Pobierz.Download();
             Zapisz.SaveXML(newListToJson);

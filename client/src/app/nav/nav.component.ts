@@ -2,8 +2,7 @@ import { Component, OnInit, ViewChild } from '@angular/core';
 import { NgForm } from '@angular/forms';
 import { Router } from '@angular/router';
 import { ToastrService } from 'ngx-toastr';
-import { Observable } from 'rxjs';
-import { User } from '../_models/user';
+
 import { AccountService } from '../_services/account.service';
 
 @Component({

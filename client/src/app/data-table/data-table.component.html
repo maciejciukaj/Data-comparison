@@ -11,6 +11,7 @@
         *matHeaderCellDef
         mat-sort-header
         sortActionDescription="Sort by number"
+        (click)="ngOnInit()"
         >ID</mat-header-cell
       >
       <mat-cell *matCellDef="let ar">{{ ar.id }}</mat-cell>

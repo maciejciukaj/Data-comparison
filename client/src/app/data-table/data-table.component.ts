@@ -1,10 +1,17 @@
 import { LiveAnnouncer } from '@angular/cdk/a11y';
-import { HttpClient } from '@angular/common/http';
-import { Component, OnInit, ViewChild } from '@angular/core';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
+import { Component, Injectable, OnInit, ViewChild } from '@angular/core';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatSort, Sort } from '@angular/material/sort';
 import { MatTableDataSource } from '@angular/material/table';
 import { Wynagrodzenie } from '../_models/wynagrodzenie';
+
+const httpOptions = {
+  headers: new HttpHeaders({
+    Authorization: 'Bearer ' + JSON.parse(localStorage.getItem('user'))?.token,
+  }),
+};
+@Injectable({ providedIn: 'root' })
 
 @Component({
   selector: 'app-data-table',
@@ -32,7 +39,7 @@ export class DataTableComponent implements OnInit {
 
   getDane() {
     return this.http
-      .get('https://localhost:5001/api/wynagrodzenia/getWynagrodzeniaBaza/')
+      .get('https://localhost:5001/api/wynagrodzenia/getWynagrodzeniaBaza/',httpOptions)
       .subscribe((res) => {
         this.dane = res;
        

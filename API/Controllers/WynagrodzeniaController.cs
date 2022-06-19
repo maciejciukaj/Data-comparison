@@ -18,6 +18,8 @@ namespace API.Controllers
         {
             _context = context;
         }
+
+        
         [HttpGet("getWynagrodzenia")]
         public List<WynagrodzenieK> getWynagrodzenia(){
              List<WynagrodzenieK> wynagrodzenia = new List<WynagrodzenieK>();
@@ -31,6 +33,8 @@ namespace API.Controllers
             return (wynagrodzenia);
             
         }
+
+        
         [HttpGet("getWynagrodzenia/{nazwa}")]
         public List<WynagrodzenieK> getIndeks(string nazwa){
              List<WynagrodzenieK> wynagrodzenia = new List<WynagrodzenieK>();
@@ -43,15 +47,16 @@ namespace API.Controllers
             return wynagrodzenia.FindAll(a=> a.Nazwa == nazwa);
         }
 
-          [HttpGet("getWynagrodzeniaBaza")]
+        [Authorize]
+        [HttpGet("getWynagrodzeniaBaza")]
         public async Task<ActionResult<IEnumerable<Entities.WynagrodzenieE>>> GetWynagrodzeniaBaza(){
             
             return await _context.Wynagrodzenia.ToListAsync();
         }
 
         
-
-         [HttpGet("getWynagrodzeniaBaza/{nazwa}")]
+        [Authorize]
+        [HttpGet("getWynagrodzeniaBaza/{nazwa}")]
         public async Task<ActionResult<IEnumerable<Entities.WynagrodzenieE>>> GetWynagrodzeniaBazaNazwa(string nazwa){
             
             return await _context.Wynagrodzenia.Where(a => a.Nazwa == nazwa).ToListAsync();

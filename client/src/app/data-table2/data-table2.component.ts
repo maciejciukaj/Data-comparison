@@ -1,11 +1,17 @@
-import { HttpClient } from '@angular/common/http';
-import { Component, OnInit, ViewChild } from '@angular/core';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
+import { Component, Injectable, OnInit, ViewChild } from '@angular/core';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatTableDataSource } from '@angular/material/table';
 import { Cena } from '../_models/cena';
 import { LiveAnnouncer } from '@angular/cdk/a11y';
 import { MatSort, Sort } from '@angular/material/sort';
 
+const httpOptions = {
+  headers: new HttpHeaders({
+    Authorization: 'Bearer ' + JSON.parse(localStorage.getItem('user'))?.token,
+  }),
+};
+@Injectable({ providedIn: 'root' })
 @Component({
   selector: 'app-data-table2',
   templateUrl: './data-table2.component.html',
@@ -31,7 +37,7 @@ export class DataTable2Component implements OnInit {
   }
   getDane() {
     return this.http
-      .get('https://localhost:5001/api/ceny/getCenyBaza/')
+      .get('https://localhost:5001/api/ceny/getCenyBaza/',httpOptions)
       .subscribe((res) => {
         this.dane = res;
 

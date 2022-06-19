@@ -5,6 +5,7 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using API.Data;
 using API.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -19,6 +20,7 @@ namespace API.Controllers
             _context = context;
         }
 
+        
          [HttpGet("getCeny")]
         public List<CenaProduktuK> getCeny(){
              
@@ -33,6 +35,8 @@ namespace API.Controllers
             return (ceny);
             
         }
+
+       
         [HttpGet("getCeny/{nazwa}")]
         public List<CenaProduktuK> getIndeks(string nazwa){
              List<CenaProduktuK> ceny = new List<CenaProduktuK>();
@@ -45,12 +49,14 @@ namespace API.Controllers
             return ceny.FindAll(a=> a.Nazwa == nazwa);
         }
 
+       [Authorize]
         [HttpGet("getCenyBaza")]
         public async Task<ActionResult<IEnumerable<Entities.CenaProduktuE>>> GetCenyBaza(){
             
             return await _context.CenyProduktow.ToListAsync();
         }
 
+        [Authorize]
         [HttpGet("getCenyBaza/{nazwa}/{towar}")]
         public async Task<ActionResult<IEnumerable<Entities.CenaProduktuE>>> GetCenyBazaNazwa(string nazwa, string towar){
             

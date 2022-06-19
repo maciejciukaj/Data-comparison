@@ -1,7 +1,13 @@
-import { HttpClient } from '@angular/common/http';
-import { Component, OnInit } from '@angular/core';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
+import { Component, Injectable, OnInit } from '@angular/core';
 import { ToastrService } from 'ngx-toastr';
 
+const httpOptions = {
+  headers: new HttpHeaders({
+    Authorization: 'Bearer ' + JSON.parse(localStorage.getItem('user'))?.token,
+  }),
+};
+@Injectable({ providedIn: 'root' })
 @Component({
   selector: 'app-inne',
   templateUrl: './inne.component.html',
@@ -29,22 +35,34 @@ export class InneComponent implements OnInit {
 
   addDane(model: any) {
     return this.http
-      .post('https://localhost:5001/api/db/dodajCeneProduktu', this.model)
-      .subscribe((res) => {
-        console.log(res);
-        this.toastr.info('Dodano rekord do bazy');
-      });
+      .post(
+        'https://localhost:5001/api/db/dodajCeneProduktu',
+        this.model,
+        httpOptions
+      )
+      .subscribe(
+        (res) => {
+          console.log(res);
+          this.toastr.info('Dodano rekord do bazy');
+        },
+        (error) => {
+          this.toastr.error('Brak uprawnien');
+        }
+      );
   }
   deleteDane() {
     return this.http
-      .delete('https://localhost:5001/api/db/usunProdukt/' + this.idDelete)
+      .delete(
+        'https://localhost:5001/api/db/usunProdukt/' + this.idDelete,
+        httpOptions
+      )
       .subscribe(
         (res) => {
           console.log(res);
           this.toastr.error('Usunięto rekord z bazy');
         },
         (error) => {
-          console.log(error);
+          this.toastr.error('Brak uprawnien');
         }
       );
   }
