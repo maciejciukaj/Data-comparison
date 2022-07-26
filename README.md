@@ -5,19 +5,19 @@ Website presents two charts with the possibility of changing the data set.
 The first chart shows the average salaries of Poles over 10 years, while the second one shows the average prices of selected food products over 10 years.
 
 ## Functionalities
-<ul>
-<li>Using the website resources is possible after registering and logging in to your account.</li>
 
-<li>The data resources are also presented in a table with the option of sorting records, for example by 'id' or 'voivodship name'</li>
+1. Using the website resources is possible after registering and logging in to your account.
 
-<li>Data sets can be edited, I implemented the function of adding a new record and deleting an existing one by entering its id.</li>
+2. The data resources are also presented in a table with the option of sorting records, for example by 'id' or 'voivodship name'
 
-<li>The website also offers the option of downloading a data set in a formatted JSON or XML version, where you can find out about the average price of products in a given year, as well as the amount of food products available for purchase in relation to the average salary.</li>
+3. Data sets can be edited, I implemented the function of adding a new record and deleting an existing one by entering its id.
 
-<li>Authorization of access to website resources is done with the use of [Json Web Token](https://jwt.io/).</li>
+4. The website also offers the option of downloading a data set in a formatted JSON or XML version, where you can find out about the average price of products in a given year, as well as the amount of food products available for purchase in relation to the average salary.
 
-<li>I used [chart.js](https://www.chartjs.org/) for the display of charts. The messages in the lower right corner come from the [toastr](https://www.npmjs.com/package/ngx-toastr) package.</li>
-</ul>
+5. uthorization of access to website resources is done with the use of [Json Web Token](https://jwt.io/).
+
+6. I used [chart.js](https://www.chartjs.org/) for the display of charts. The messages in the lower right corner come from the [toastr](https://www.npmjs.com/package/ngx-toastr) package.
+
 
 ## Setup
 
