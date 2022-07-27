@@ -14,7 +14,7 @@ The first chart shows the average salaries of Poles over 10 years, while the sec
 
 4. The website also offers the option of downloading a data set in a formatted JSON or XML version, where you can find out about the average price of products in a given year, as well as the amount of food products available for purchase in relation to the average salary.
 
-5. uthorization of access to website resources is done with the use of [Json Web Token](https://jwt.io/).
+5. Authorization of access to website resources is done with the use of [Json Web Token](https://jwt.io/).
 
 6. I used [chart.js](https://www.chartjs.org/) for the display of charts. The messages in the lower right corner come from the [toastr](https://www.npmjs.com/package/ngx-toastr) package.
 
