@@ -27,7 +27,6 @@ namespace API
 
 
 
-
             List<string> nazwyWojewodztw = new List<string>();
             //List<Rok> lat = new List<Rok>();
             List<Wojewodztwo> woj = new List<Wojewodztwo>();

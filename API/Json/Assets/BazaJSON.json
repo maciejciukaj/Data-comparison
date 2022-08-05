@@ -1,0 +1,3423 @@
+[
+  {
+    "Name": "DOLNOŚLĄSKIE",
+    "Lata": [
+      {
+        "Year": "2011",
+        "Pay": "3587.25",
+        "SredniaCenaProduktow": 9.24,
+        "IloscProduktowNaPensje": 388.11,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.01" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.5" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.19" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.06" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "22.28"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.88" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.78" }
+        ]
+      },
+      {
+        "Year": "2012",
+        "Pay": "3709.32",
+        "SredniaCenaProduktow": 10.14,
+        "IloscProduktowNaPensje": 365.81,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.5" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.3" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.21" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.33"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.23" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "20.41" }
+        ]
+      },
+      {
+        "Year": "2013",
+        "Pay": "3868.86",
+        "SredniaCenaProduktow": 10.45,
+        "IloscProduktowNaPensje": 370.07,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.97" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.5" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.46" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.22" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.72"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.89" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.42" }
+        ]
+      },
+      {
+        "Year": "2014",
+        "Pay": "4042.86",
+        "SredniaCenaProduktow": 10.46,
+        "IloscProduktowNaPensje": 386.45,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.81" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.49" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.45" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.22" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.46"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.96" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.84" }
+        ]
+      },
+      {
+        "Year": "2015",
+        "Pay": "4204.24",
+        "SredniaCenaProduktow": 10.02,
+        "IloscProduktowNaPensje": 419.58,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.64" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.45" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.15" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.17"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.39" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "20.89" }
+        ]
+      },
+      {
+        "Year": "2016",
+        "Pay": "4385.84",
+        "SredniaCenaProduktow": 9.71,
+        "IloscProduktowNaPensje": 451.57,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.84" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.44" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.47" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.47" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.29" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.02"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.65" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.52" }
+        ]
+      },
+      {
+        "Year": "2017",
+        "Pay": "4654.51",
+        "SredniaCenaProduktow": 10.68,
+        "IloscProduktowNaPensje": 435.76,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.61" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.54" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.54" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.55"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "18.91" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "24.85" }
+        ]
+      },
+      {
+        "Year": "2018",
+        "Pay": "4942.39",
+        "SredniaCenaProduktow": 10.96,
+        "IloscProduktowNaPensje": 451.0,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.84" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.48" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.98" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.53" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.59" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "26.47"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "19.29" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "25.49" }
+        ]
+      },
+      {
+        "Year": "2019",
+        "Pay": "5323.55",
+        "SredniaCenaProduktow": 11.57,
+        "IloscProduktowNaPensje": 460.07,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.91" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.51" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "7.76" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.68" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.61" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "27.3"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "20.65" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "27.15" }
+        ]
+      },
+      {
+        "Year": "2020",
+        "Pay": "5693.69",
+        "SredniaCenaProduktow": 13.42,
+        "IloscProduktowNaPensje": 424.27,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.21" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.57" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.87" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.76" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "29.36"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "23.19" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "30.98" }
+        ]
+      },
+      {
+        "Year": "2021",
+        "Pay": "-",
+        "SredniaCenaProduktow": 0.0,
+        "IloscProduktowNaPensje": 0.0,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "-" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "-" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "-" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "-" },
+          { "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg", "Cena": "-" },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "-" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "-" }
+        ]
+      }
+    ],
+    "WzrostZarobkowNa10Lat": 58.72,
+    "WzrostCenNa10Lat": 45.24,
+    "SredniaIloscProduktowNaPensje": 415.26900000000006
+  },
+  {
+    "Name": "KUJAWSKO-POMORSKIE",
+    "Lata": [
+      {
+        "Year": "2011",
+        "Pay": "3062.32",
+        "SredniaCenaProduktow": 9.56,
+        "IloscProduktowNaPensje": 320.18,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.1" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.3" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.71" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "26.19"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.88" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "17.32" }
+        ]
+      },
+      {
+        "Year": "2012",
+        "Pay": "3182.31",
+        "SredniaCenaProduktow": 10.71,
+        "IloscProduktowNaPensje": 297.25,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.26" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.43" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.36" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.92" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "29.95"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.48" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "19.54" }
+        ]
+      },
+      {
+        "Year": "2013",
+        "Pay": "3322.09",
+        "SredniaCenaProduktow": 11.1,
+        "IloscProduktowNaPensje": 299.25,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.14" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.41" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.45" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.04" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "30.44"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "17.2" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.03" }
+        ]
+      },
+      {
+        "Year": "2014",
+        "Pay": "3439.06",
+        "SredniaCenaProduktow": 11.31,
+        "IloscProduktowNaPensje": 304.0,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.8" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.41" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.3" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.25" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "30.87"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "17.63" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.93" }
+        ]
+      },
+      {
+        "Year": "2015",
+        "Pay": "3540.25",
+        "SredniaCenaProduktow": 11.07,
+        "IloscProduktowNaPensje": 319.68,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.6" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.42" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.25" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.06" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "29.96"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "17.45" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.78" }
+        ]
+      },
+      {
+        "Year": "2016",
+        "Pay": "3672.98",
+        "SredniaCenaProduktow": 10.4,
+        "IloscProduktowNaPensje": 353.13,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.72" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.42" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.8" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.35" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.03" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "29.8"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "17.15" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.94" }
+        ]
+      },
+      {
+        "Year": "2017",
+        "Pay": "3886.2",
+        "SredniaCenaProduktow": 10.69,
+        "IloscProduktowNaPensje": 363.62,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.87" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.42" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.16" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.43" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.01" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "29.8"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "17.71" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "23.1" }
+        ]
+      },
+      {
+        "Year": "2018",
+        "Pay": "4139.21",
+        "SredniaCenaProduktow": 10.88,
+        "IloscProduktowNaPensje": 380.4,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.77" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.44" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.54" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.43" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.02" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "30.2"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "18.38" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "23.27" }
+        ]
+      },
+      {
+        "Year": "2019",
+        "Pay": "4494.37",
+        "SredniaCenaProduktow": 11.54,
+        "IloscProduktowNaPensje": 389.46,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.97" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.48" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.99" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.56" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.98" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "31.19"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "20.05" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "25.1" }
+        ]
+      },
+      {
+        "Year": "2020",
+        "Pay": "4831.73",
+        "SredniaCenaProduktow": 13.2,
+        "IloscProduktowNaPensje": 366.16,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.37" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.52" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.91" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.17" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "32.16"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "22.19" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "28.05" }
+        ]
+      },
+      {
+        "Year": "2021",
+        "Pay": "-",
+        "SredniaCenaProduktow": 0.0,
+        "IloscProduktowNaPensje": 0.0,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "-" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "-" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "-" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "-" },
+          { "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg", "Cena": "-" },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "-" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "-" }
+        ]
+      }
+    ],
+    "WzrostZarobkowNa10Lat": 57.78,
+    "WzrostCenNa10Lat": 38.08,
+    "SredniaIloscProduktowNaPensje": 339.313
+  },
+  {
+    "Name": "LUBELSKIE",
+    "Lata": [
+      {
+        "Year": "2011",
+        "Pay": "3257.14",
+        "SredniaCenaProduktow": 8.68,
+        "IloscProduktowNaPensje": 375.37,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.32" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.27" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.14" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "22.63"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "13.28" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "15.65" }
+        ]
+      },
+      {
+        "Year": "2012",
+        "Pay": "3382.66",
+        "SredniaCenaProduktow": 9.49,
+        "IloscProduktowNaPensje": 356.55,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.12" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.44" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.29" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.38" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.49"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.15" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "17.54" }
+        ]
+      },
+      {
+        "Year": "2013",
+        "Pay": "3488.61",
+        "SredniaCenaProduktow": 9.68,
+        "IloscProduktowNaPensje": 360.34,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.12" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.43" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.46" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.3" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "26.18"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.8" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "17.48" }
+        ]
+      },
+      {
+        "Year": "2014",
+        "Pay": "3605.03",
+        "SredniaCenaProduktow": 9.63,
+        "IloscProduktowNaPensje": 374.52,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.94" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.41" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.36" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.41" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.79"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.53" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "17.94" }
+        ]
+      },
+      {
+        "Year": "2015",
+        "Pay": "3699.48",
+        "SredniaCenaProduktow": 9.52,
+        "IloscProduktowNaPensje": 388.54,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.97" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.42" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.26" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.37" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.81"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.83" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "16.99" }
+        ]
+      },
+      {
+        "Year": "2016",
+        "Pay": "3815.95",
+        "SredniaCenaProduktow": 8.89,
+        "IloscProduktowNaPensje": 429.24,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.14" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.43" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.28" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.22" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.27" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.09"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.5" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "17.19" }
+        ]
+      },
+      {
+        "Year": "2017",
+        "Pay": "4020.25",
+        "SredniaCenaProduktow": 9.7,
+        "IloscProduktowNaPensje": 414.51,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.3" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.44" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.36" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.26" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.32" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "26.72"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.71" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "20.48" }
+        ]
+      },
+      {
+        "Year": "2018",
+        "Pay": "4260.71",
+        "SredniaCenaProduktow": 10.33,
+        "IloscProduktowNaPensje": 412.36,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.33" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.51" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.44" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.35" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "29.1"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.64" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.84" }
+        ]
+      },
+      {
+        "Year": "2019",
+        "Pay": "4564.85",
+        "SredniaCenaProduktow": 10.96,
+        "IloscProduktowNaPensje": 416.69,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.64" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.51" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.05" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.67" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.42" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "28.73"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "18.09" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "24.53" }
+        ]
+      },
+      {
+        "Year": "2020",
+        "Pay": "4914.95",
+        "SredniaCenaProduktow": 12.43,
+        "IloscProduktowNaPensje": 395.55,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.56" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.53" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "3.04" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.43" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "29.02"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "19.52" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "27.88" }
+        ]
+      },
+      {
+        "Year": "2021",
+        "Pay": "-",
+        "SredniaCenaProduktow": 0.0,
+        "IloscProduktowNaPensje": 0.0,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "-" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "-" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "-" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "-" },
+          { "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg", "Cena": "-" },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "-" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "-" }
+        ]
+      }
+    ],
+    "WzrostZarobkowNa10Lat": 50.9,
+    "WzrostCenNa10Lat": 43.2,
+    "SredniaIloscProduktowNaPensje": 392.367
+  },
+  {
+    "Name": "LUBUSKIE",
+    "Lata": [
+      {
+        "Year": "2011",
+        "Pay": "3073.95",
+        "SredniaCenaProduktow": 8.84,
+        "IloscProduktowNaPensje": 347.56,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.66" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.44" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.08" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.73" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "22.86"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "13.69" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "17.45" }
+        ]
+      },
+      {
+        "Year": "2012",
+        "Pay": "3203.18",
+        "SredniaCenaProduktow": 9.91,
+        "IloscProduktowNaPensje": 323.13,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.12" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.31" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.88" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "27.05"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.17" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "19.41" }
+        ]
+      },
+      {
+        "Year": "2013",
+        "Pay": "3282.07",
+        "SredniaCenaProduktow": 10.57,
+        "IloscProduktowNaPensje": 310.42,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.04" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.46" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.49" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.07" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "29.27"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.87" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "20.81" }
+        ]
+      },
+      {
+        "Year": "2014",
+        "Pay": "3425.38",
+        "SredniaCenaProduktow": 10.71,
+        "IloscProduktowNaPensje": 319.96,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.77" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.46" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.47" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.12" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "30.33"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.83" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "20.96" }
+        ]
+      },
+      {
+        "Year": "2015",
+        "Pay": "3567.6",
+        "SredniaCenaProduktow": 10.52,
+        "IloscProduktowNaPensje": 339.03,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.66" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.39" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.1" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "30.34"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "13.95" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "20.77" }
+        ]
+      },
+      {
+        "Year": "2016",
+        "Pay": "3734.9",
+        "SredniaCenaProduktow": 10.04,
+        "IloscProduktowNaPensje": 371.82,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.6" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.64" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.41" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.13" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "28.56"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.82" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.75" }
+        ]
+      },
+      {
+        "Year": "2017",
+        "Pay": "3950.95",
+        "SredniaCenaProduktow": 10.78,
+        "IloscProduktowNaPensje": 366.63,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.57" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.47" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.85" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.33" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.28" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "29.11"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "17.88" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "23.72" }
+        ]
+      },
+      {
+        "Year": "2018",
+        "Pay": "4239.92",
+        "SredniaCenaProduktow": 11.26,
+        "IloscProduktowNaPensje": 376.51,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.54" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.51" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "7.35" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.5" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.34" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "30.13"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "18.37" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "25.35" }
+        ]
+      },
+      {
+        "Year": "2019",
+        "Pay": "4559.96",
+        "SredniaCenaProduktow": 11.63,
+        "IloscProduktowNaPensje": 392.13,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.64" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.57" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "7.78" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.97" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.2" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "29.56"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "20.29" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "26.02" }
+        ]
+      },
+      {
+        "Year": "2020",
+        "Pay": "4832.07",
+        "SredniaCenaProduktow": 13.41,
+        "IloscProduktowNaPensje": 360.37,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.65" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.63" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "3.06" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.41" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "31.72"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "22.26" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "30.13" }
+        ]
+      },
+      {
+        "Year": "2021",
+        "Pay": "-",
+        "SredniaCenaProduktow": 0.0,
+        "IloscProduktowNaPensje": 0.0,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "-" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "-" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "-" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "-" },
+          { "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg", "Cena": "-" },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "-" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "-" }
+        ]
+      }
+    ],
+    "WzrostZarobkowNa10Lat": 57.19,
+    "WzrostCenNa10Lat": 51.7,
+    "SredniaIloscProduktowNaPensje": 350.75600000000003
+  },
+  {
+    "Name": "ŁÓDZKIE",
+    "Lata": [
+      {
+        "Year": "2011",
+        "Pay": "3245.97",
+        "SredniaCenaProduktow": 8.54,
+        "IloscProduktowNaPensje": 379.9,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.79" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.42" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.45" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.9" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "20.66"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.36" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "15.23" }
+        ]
+      },
+      {
+        "Year": "2012",
+        "Pay": "3383.3",
+        "SredniaCenaProduktow": 9.59,
+        "IloscProduktowNaPensje": 352.74,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.07" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.43" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.63" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.18" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "24.11"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.12" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "17.6" }
+        ]
+      },
+      {
+        "Year": "2013",
+        "Pay": "3510.2",
+        "SredniaCenaProduktow": 9.71,
+        "IloscProduktowNaPensje": 361.61,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.85" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.4" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.61" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.1" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "24.09"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.51" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.39" }
+        ]
+      },
+      {
+        "Year": "2014",
+        "Pay": "3618.63",
+        "SredniaCenaProduktow": 9.72,
+        "IloscProduktowNaPensje": 372.12,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.53" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.4" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.57" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.01" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "24.06"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.62" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.88" }
+        ]
+      },
+      {
+        "Year": "2015",
+        "Pay": "3790.76",
+        "SredniaCenaProduktow": 9.67,
+        "IloscProduktowNaPensje": 392.07,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.51" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.39" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.6" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.01" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "23.68"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.74" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.75" }
+        ]
+      },
+      {
+        "Year": "2016",
+        "Pay": "3925.1",
+        "SredniaCenaProduktow": 9.23,
+        "IloscProduktowNaPensje": 425.37,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.54" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.36" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.66" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.51" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.93" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "23.71"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.69" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.42" }
+        ]
+      },
+      {
+        "Year": "2017",
+        "Pay": "4141.94",
+        "SredniaCenaProduktow": 9.69,
+        "IloscProduktowNaPensje": 427.56,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.6" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.36" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.28" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.57" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.93" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "24.69"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.9" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.17" }
+        ]
+      },
+      {
+        "Year": "2018",
+        "Pay": "4441.29",
+        "SredniaCenaProduktow": 10.14,
+        "IloscProduktowNaPensje": 437.89,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.61" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.39" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.44" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.51" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.93" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "26.15"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "17.28" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "22.83" }
+        ]
+      },
+      {
+        "Year": "2019",
+        "Pay": "4790.1",
+        "SredniaCenaProduktow": 10.59,
+        "IloscProduktowNaPensje": 452.22,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.78" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.42" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "7.03" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.78" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.11" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "26.03"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "18.66" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "23.93" }
+        ]
+      },
+      {
+        "Year": "2020",
+        "Pay": "5148.38",
+        "SredniaCenaProduktow": 11.83,
+        "IloscProduktowNaPensje": 435.09,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.12" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.41" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.96" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.19" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "26.37"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "20.53" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "26.25" }
+        ]
+      },
+      {
+        "Year": "2021",
+        "Pay": "-",
+        "SredniaCenaProduktow": 0.0,
+        "IloscProduktowNaPensje": 0.0,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "-" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "-" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "-" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "-" },
+          { "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg", "Cena": "-" },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "-" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "-" }
+        ]
+      }
+    ],
+    "WzrostZarobkowNa10Lat": 58.61,
+    "WzrostCenNa10Lat": 38.52,
+    "SredniaIloscProduktowNaPensje": 403.657
+  },
+  {
+    "Name": "MAŁOPOLSKIE",
+    "Lata": [
+      {
+        "Year": "2011",
+        "Pay": "3332.98",
+        "SredniaCenaProduktow": 8.58,
+        "IloscProduktowNaPensje": 388.46,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.35" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.48" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.37" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.42" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "21.01"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "13.53" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "15.9" }
+        ]
+      },
+      {
+        "Year": "2012",
+        "Pay": "3456.16",
+        "SredniaCenaProduktow": 9.65,
+        "IloscProduktowNaPensje": 358.31,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.36" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.47" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.47" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.47" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "24.52"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.78" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.45" }
+        ]
+      },
+      {
+        "Year": "2013",
+        "Pay": "3574.22",
+        "SredniaCenaProduktow": 9.99,
+        "IloscProduktowNaPensje": 357.68,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.35" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.47" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.51" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.49" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.53"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.97" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "19.63" }
+        ]
+      },
+      {
+        "Year": "2014",
+        "Pay": "3700.06",
+        "SredniaCenaProduktow": 10.04,
+        "IloscProduktowNaPensje": 368.64,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.91" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.48" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.54" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.65" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.74"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.2" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "19.74" }
+        ]
+      },
+      {
+        "Year": "2015",
+        "Pay": "3906.96",
+        "SredniaCenaProduktow": 9.76,
+        "IloscProduktowNaPensje": 400.48,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.62" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.5" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.83" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.27"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.89" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.73" }
+        ]
+      },
+      {
+        "Year": "2016",
+        "Pay": "4077.91",
+        "SredniaCenaProduktow": 9.5,
+        "IloscProduktowNaPensje": 429.08,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.72" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.61" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.53" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.86" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "26.18"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.72" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.96" }
+        ]
+      },
+      {
+        "Year": "2017",
+        "Pay": "4347.1",
+        "SredniaCenaProduktow": 9.9,
+        "IloscProduktowNaPensje": 439.32,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.67" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.82" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.47" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.7" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "27.08"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.75" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "20.22" }
+        ]
+      },
+      {
+        "Year": "2018",
+        "Pay": "4678.95",
+        "SredniaCenaProduktow": 10.21,
+        "IloscProduktowNaPensje": 458.27,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.73" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.49" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.91" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.45" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.65" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "27.24"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.17" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "22.04" }
+        ]
+      },
+      {
+        "Year": "2019",
+        "Pay": "5098.26",
+        "SredniaCenaProduktow": 10.7,
+        "IloscProduktowNaPensje": 476.53,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.81" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.53" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "7.83" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.52" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.65" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "27.85"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "17.24" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "23.16" }
+        ]
+      },
+      {
+        "Year": "2020",
+        "Pay": "5536.07",
+        "SredniaCenaProduktow": 12.09,
+        "IloscProduktowNaPensje": 457.9,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.38" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.53" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.86" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.59" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "28.77"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "19.32" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "26.18" }
+        ]
+      },
+      {
+        "Year": "2021",
+        "Pay": "-",
+        "SredniaCenaProduktow": 0.0,
+        "IloscProduktowNaPensje": 0.0,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "-" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "-" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "-" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "-" },
+          { "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg", "Cena": "-" },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "-" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "-" }
+        ]
+      }
+    ],
+    "WzrostZarobkowNa10Lat": 66.1,
+    "WzrostCenNa10Lat": 40.91,
+    "SredniaIloscProduktowNaPensje": 413.467
+  },
+  {
+    "Name": "MAZOWIECKIE",
+    "Lata": [
+      {
+        "Year": "2011",
+        "Pay": "4504.66",
+        "SredniaCenaProduktow": 9.06,
+        "IloscProduktowNaPensje": 497.05,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.6" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.42" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.45" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.26" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "20.77"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.56" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.38" }
+        ]
+      },
+      {
+        "Year": "2012",
+        "Pay": "4637.58",
+        "SredniaCenaProduktow": 9.96,
+        "IloscProduktowNaPensje": 465.82,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.76" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.42" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.53" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.36" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "23.45"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.76" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "19.41" }
+        ]
+      },
+      {
+        "Year": "2013",
+        "Pay": "4773.41",
+        "SredniaCenaProduktow": 10.26,
+        "IloscProduktowNaPensje": 465.37,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.48" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.4" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.71" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.55" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "24.37"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "17.49" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "19.8" }
+        ]
+      },
+      {
+        "Year": "2014",
+        "Pay": "4927.34",
+        "SredniaCenaProduktow": 10.23,
+        "IloscProduktowNaPensje": 481.52,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.24" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.4" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.72" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.55" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "24.47"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "17.41" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "19.84" }
+        ]
+      },
+      {
+        "Year": "2015",
+        "Pay": "5098.55",
+        "SredniaCenaProduktow": 10.0,
+        "IloscProduktowNaPensje": 509.71,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.03" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.38" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.78" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.54" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "23.82"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.67" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "19.8" }
+        ]
+      },
+      {
+        "Year": "2016",
+        "Pay": "5240.86",
+        "SredniaCenaProduktow": 9.51,
+        "IloscProduktowNaPensje": 551.09,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.91" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.38" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.54" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.81" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.55" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "23.91"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.56" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "20.42" }
+        ]
+      },
+      {
+        "Year": "2017",
+        "Pay": "5523.65",
+        "SredniaCenaProduktow": 9.9,
+        "IloscProduktowNaPensje": 558.23,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.97" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.39" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.64" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.76" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.53" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.04"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.38" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "22.45" }
+        ]
+      },
+      {
+        "Year": "2018",
+        "Pay": "5888.9",
+        "SredniaCenaProduktow": 10.36,
+        "IloscProduktowNaPensje": 568.7,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.94" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.4" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.91" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.59" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.6" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "27.52"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.54" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "23.34" }
+        ]
+      },
+      {
+        "Year": "2019",
+        "Pay": "6248.47",
+        "SredniaCenaProduktow": 10.71,
+        "IloscProduktowNaPensje": 583.22,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.18" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.44" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.27" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.77" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.7" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "27.39"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "17.6" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "24.36" }
+        ]
+      },
+      {
+        "Year": "2020",
+        "Pay": "6581.81",
+        "SredniaCenaProduktow": 12.27,
+        "IloscProduktowNaPensje": 536.54,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.51" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.48" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "3.1" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.93" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "27.53"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "20.17" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "27.15" }
+        ]
+      },
+      {
+        "Year": "2021",
+        "Pay": "-",
+        "SredniaCenaProduktow": 0.0,
+        "IloscProduktowNaPensje": 0.0,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "-" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "-" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "-" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "-" },
+          { "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg", "Cena": "-" },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "-" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "-" }
+        ]
+      }
+    ],
+    "WzrostZarobkowNa10Lat": 46.11,
+    "WzrostCenNa10Lat": 35.43,
+    "SredniaIloscProduktowNaPensje": 521.725
+  },
+  {
+    "Name": "OPOLSKIE",
+    "Lata": [
+      {
+        "Year": "2011",
+        "Pay": "3249.58",
+        "SredniaCenaProduktow": 8.76,
+        "IloscProduktowNaPensje": 371.02,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.62" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.51" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.24" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.93" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "20.36"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.16" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.49" }
+        ]
+      },
+      {
+        "Year": "2012",
+        "Pay": "3358.42",
+        "SredniaCenaProduktow": 9.72,
+        "IloscProduktowNaPensje": 345.62,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.92" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.5" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.33" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.02" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "23.33"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.1" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "20.82" }
+        ]
+      },
+      {
+        "Year": "2013",
+        "Pay": "3473.4",
+        "SredniaCenaProduktow": 10.1,
+        "IloscProduktowNaPensje": 344.05,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.88" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.47" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.51" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.94" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "24.05"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.46" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.36" }
+        ]
+      },
+      {
+        "Year": "2014",
+        "Pay": "3632.84",
+        "SredniaCenaProduktow": 10.35,
+        "IloscProduktowNaPensje": 350.9,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.68" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.46" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.46" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.98" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.89"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.39" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.61" }
+        ]
+      },
+      {
+        "Year": "2015",
+        "Pay": "3793.28",
+        "SredniaCenaProduktow": 10.01,
+        "IloscProduktowNaPensje": 378.89,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.55" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.42" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.92" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.27"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.54" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "20.93" }
+        ]
+      },
+      {
+        "Year": "2016",
+        "Pay": "3927.04",
+        "SredniaCenaProduktow": 9.62,
+        "IloscProduktowNaPensje": 408.0,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.61" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.47" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.19" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.47" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.86" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.1"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.8" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.5" }
+        ]
+      },
+      {
+        "Year": "2017",
+        "Pay": "4144.91",
+        "SredniaCenaProduktow": 10.36,
+        "IloscProduktowNaPensje": 400.09,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.48" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.49" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.37" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.58" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.88" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "26.07"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "17.41" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "24.6" }
+        ]
+      },
+      {
+        "Year": "2018",
+        "Pay": "4379.25",
+        "SredniaCenaProduktow": 10.7,
+        "IloscProduktowNaPensje": 409.08,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.54" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.51" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.58" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.58" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.06" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "27.27"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "18.11" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "24.99" }
+        ]
+      },
+      {
+        "Year": "2019",
+        "Pay": "4712.47",
+        "SredniaCenaProduktow": 11.47,
+        "IloscProduktowNaPensje": 410.81,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.66" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.54" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "7.43" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.8" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.37" },
+          { "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg", "Cena": "28" },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "19.55" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "27.42" }
+        ]
+      },
+      {
+        "Year": "2020",
+        "Pay": "5078.51",
+        "SredniaCenaProduktow": 12.89,
+        "IloscProduktowNaPensje": 394.03,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.96" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.59" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.85" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.53" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "28.52"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "22.13" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "29.64" }
+        ]
+      },
+      {
+        "Year": "2021",
+        "Pay": "-",
+        "SredniaCenaProduktow": 0.0,
+        "IloscProduktowNaPensje": 0.0,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "-" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "-" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "-" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "-" },
+          { "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg", "Cena": "-" },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "-" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "-" }
+        ]
+      }
+    ],
+    "WzrostZarobkowNa10Lat": 56.28,
+    "WzrostCenNa10Lat": 47.15,
+    "SredniaIloscProduktowNaPensje": 381.24899999999997
+  },
+  {
+    "Name": "PODKARPACKIE",
+    "Lata": [
+      {
+        "Year": "2011",
+        "Pay": "3023.21",
+        "SredniaCenaProduktow": 8.59,
+        "IloscProduktowNaPensje": 352.12,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.18" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.44" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.31" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.09" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "21.83"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "13.81" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "15.44" }
+        ]
+      },
+      {
+        "Year": "2012",
+        "Pay": "3152.36",
+        "SredniaCenaProduktow": 9.46,
+        "IloscProduktowNaPensje": 333.28,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.34" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.37" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.28" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "24.42"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.51" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "17.84" }
+        ]
+      },
+      {
+        "Year": "2013",
+        "Pay": "3282.69",
+        "SredniaCenaProduktow": 9.65,
+        "IloscProduktowNaPensje": 340.28,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.07" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.43" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.39" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.53" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "24.42"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.73" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.96" }
+        ]
+      },
+      {
+        "Year": "2014",
+        "Pay": "3412.3",
+        "SredniaCenaProduktow": 9.61,
+        "IloscProduktowNaPensje": 355.08,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.04" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.39" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.31" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.68" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "24.21"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.72" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.92" }
+        ]
+      },
+      {
+        "Year": "2015",
+        "Pay": "3527.62",
+        "SredniaCenaProduktow": 9.57,
+        "IloscProduktowNaPensje": 368.67,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.38" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.31" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.71" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "24.66"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.03" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "17.89" }
+        ]
+      },
+      {
+        "Year": "2016",
+        "Pay": "3653.67",
+        "SredniaCenaProduktow": 9.15,
+        "IloscProduktowNaPensje": 399.2,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.96" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.38" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.09" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.46" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.74" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.05"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.04" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.5" }
+        ]
+      },
+      {
+        "Year": "2017",
+        "Pay": "3837.17",
+        "SredniaCenaProduktow": 9.95,
+        "IloscProduktowNaPensje": 385.79,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.98" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.39" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.19" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.45" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.69" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.92"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.38" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "22.57" }
+        ]
+      },
+      {
+        "Year": "2018",
+        "Pay": "4089.81",
+        "SredniaCenaProduktow": 10.26,
+        "IloscProduktowNaPensje": 398.47,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.93" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.41" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.61" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.52" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.78" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "26.75"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.56" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "23.55" }
+        ]
+      },
+      {
+        "Year": "2019",
+        "Pay": "4388.16",
+        "SredniaCenaProduktow": 10.68,
+        "IloscProduktowNaPensje": 410.97,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.26" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.74" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.86" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "28.15"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "17.28" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "23.68" }
+        ]
+      },
+      {
+        "Year": "2020",
+        "Pay": "4707.81",
+        "SredniaCenaProduktow": 12.36,
+        "IloscProduktowNaPensje": 381.02,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.98" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.51" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.99" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "3.17" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "28.78"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "19.2" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "26.86" }
+        ]
+      },
+      {
+        "Year": "2021",
+        "Pay": "-",
+        "SredniaCenaProduktow": 0.0,
+        "IloscProduktowNaPensje": 0.0,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "-" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "-" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "-" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "-" },
+          { "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg", "Cena": "-" },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "-" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "-" }
+        ]
+      }
+    ],
+    "WzrostZarobkowNa10Lat": 55.72,
+    "WzrostCenNa10Lat": 43.89,
+    "SredniaIloscProduktowNaPensje": 372.48799999999994
+  },
+  {
+    "Name": "PODLASKIE",
+    "Lata": [
+      {
+        "Year": "2011",
+        "Pay": "3178.15",
+        "SredniaCenaProduktow": 8.92,
+        "IloscProduktowNaPensje": 356.41,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.42" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.42" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.06" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.11" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "21.82"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.88" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "16.71" }
+        ]
+      },
+      {
+        "Year": "2012",
+        "Pay": "3310.71",
+        "SredniaCenaProduktow": 9.58,
+        "IloscProduktowNaPensje": 345.59,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.51" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.43" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.03" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.24" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "22.36"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.75" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.74" }
+        ]
+      },
+      {
+        "Year": "2013",
+        "Pay": "3432.71",
+        "SredniaCenaProduktow": 9.89,
+        "IloscProduktowNaPensje": 347.24,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.53" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.4" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.16" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.4" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "23.25"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.49" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "19.97" }
+        ]
+      },
+      {
+        "Year": "2014",
+        "Pay": "3530.17",
+        "SredniaCenaProduktow": 9.71,
+        "IloscProduktowNaPensje": 363.67,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.36" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.38" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.1" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.35" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "23.57"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.48" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "19.71" }
+        ]
+      },
+      {
+        "Year": "2015",
+        "Pay": "3647.08",
+        "SredniaCenaProduktow": 9.18,
+        "IloscProduktowNaPensje": 397.16,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.32" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.38" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.15" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.23" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "22.21"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.99" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18" }
+        ]
+      },
+      {
+        "Year": "2016",
+        "Pay": "3767.2",
+        "SredniaCenaProduktow": 8.93,
+        "IloscProduktowNaPensje": 421.74,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.37" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.38" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.39" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.25" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.27" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "23.52"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.4" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.88" }
+        ]
+      },
+      {
+        "Year": "2017",
+        "Pay": "4005.94",
+        "SredniaCenaProduktow": 9.97,
+        "IloscProduktowNaPensje": 401.85,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.66" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.39" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.57" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.36" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.42" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.57"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.61" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "23.17" }
+        ]
+      },
+      {
+        "Year": "2018",
+        "Pay": "4264.04",
+        "SredniaCenaProduktow": 10.12,
+        "IloscProduktowNaPensje": 421.35,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.41" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.44" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.14" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.28" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.5" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.82"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.58" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "24.79" }
+        ]
+      },
+      {
+        "Year": "2019",
+        "Pay": "4575.88",
+        "SredniaCenaProduktow": 10.47,
+        "IloscProduktowNaPensje": 436.89,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.43" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.48" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.5" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.81" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.57" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.76"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.57" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "25.67" }
+        ]
+      },
+      {
+        "Year": "2020",
+        "Pay": "4929.64",
+        "SredniaCenaProduktow": 12.04,
+        "IloscProduktowNaPensje": 409.54,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.58" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.52" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "3.23" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.77" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.04"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "18.97" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "29.15" }
+        ]
+      },
+      {
+        "Year": "2021",
+        "Pay": "-",
+        "SredniaCenaProduktow": 0.0,
+        "IloscProduktowNaPensje": 0.0,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "-" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "-" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "-" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "-" },
+          { "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg", "Cena": "-" },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "-" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "-" }
+        ]
+      }
+    ],
+    "WzrostZarobkowNa10Lat": 55.11,
+    "WzrostCenNa10Lat": 34.98,
+    "SredniaIloscProduktowNaPensje": 390.144
+  },
+  {
+    "Name": "POMORSKIE",
+    "Lata": [
+      {
+        "Year": "2011",
+        "Pay": "3567.49",
+        "SredniaCenaProduktow": 9.29,
+        "IloscProduktowNaPensje": 383.95,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.09" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.46" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.11" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "22.84"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.47" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.62" }
+        ]
+      },
+      {
+        "Year": "2012",
+        "Pay": "3696.89",
+        "SredniaCenaProduktow": 10.71,
+        "IloscProduktowNaPensje": 345.09,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.37" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.43" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.58" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.17" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "26.85"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.55" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "22.04" }
+        ]
+      },
+      {
+        "Year": "2013",
+        "Pay": "3847.12",
+        "SredniaCenaProduktow": 11.17,
+        "IloscProduktowNaPensje": 344.5,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.06" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.43" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.64" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.31" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "28.8"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.79" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "23.14" }
+        ]
+      },
+      {
+        "Year": "2014",
+        "Pay": "4011.59",
+        "SredniaCenaProduktow": 10.99,
+        "IloscProduktowNaPensje": 365.16,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.76" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.44" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.54" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.32" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "28.5"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "23.34" }
+        ]
+      },
+      {
+        "Year": "2015",
+        "Pay": "4132.13",
+        "SredniaCenaProduktow": 10.61,
+        "IloscProduktowNaPensje": 389.4,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.61" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.43" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.59" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.12" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "26.56"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.83" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "23.14" }
+        ]
+      },
+      {
+        "Year": "2016",
+        "Pay": "4274.73",
+        "SredniaCenaProduktow": 9.74,
+        "IloscProduktowNaPensje": 438.83,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.76" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.41" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.36" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.66" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.31" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.08"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.41" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "22.94" }
+        ]
+      },
+      {
+        "Year": "2017",
+        "Pay": "4496.64",
+        "SredniaCenaProduktow": 10.62,
+        "IloscProduktowNaPensje": 423.56,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.72" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.4" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.84" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.71" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.3" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "26.39"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "19.62" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "23.95" }
+        ]
+      },
+      {
+        "Year": "2018",
+        "Pay": "4794.74",
+        "SredniaCenaProduktow": 11.18,
+        "IloscProduktowNaPensje": 428.77,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.79" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.43" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.28" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.75" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.33" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "28.92"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "19.92" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "25.04" }
+        ]
+      },
+      {
+        "Year": "2019",
+        "Pay": "5142.01",
+        "SredniaCenaProduktow": 11.74,
+        "IloscProduktowNaPensje": 437.94,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.76" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.48" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.9" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.82" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.67" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "29.32"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "21.03" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "26.95" }
+        ]
+      },
+      {
+        "Year": "2020",
+        "Pay": "5484.46",
+        "SredniaCenaProduktow": 13.1,
+        "IloscProduktowNaPensje": 418.52,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.76" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.57" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "3.01" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.62" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "28.7"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "23.39" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "29.68" }
+        ]
+      },
+      {
+        "Year": "2021",
+        "Pay": "-",
+        "SredniaCenaProduktow": 0.0,
+        "IloscProduktowNaPensje": 0.0,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "-" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "-" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "-" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "-" },
+          { "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg", "Cena": "-" },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "-" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "-" }
+        ]
+      }
+    ],
+    "WzrostZarobkowNa10Lat": 53.73,
+    "WzrostCenNa10Lat": 41.01,
+    "SredniaIloscProduktowNaPensje": 397.572
+  },
+  {
+    "Name": "ŚLĄSKIE",
+    "Lata": [
+      {
+        "Year": "2011",
+        "Pay": "3794.62",
+        "SredniaCenaProduktow": 8.56,
+        "IloscProduktowNaPensje": 443.22,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.66" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.36" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.27" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.85" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "20.97"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "13.45" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "17.37" }
+        ]
+      },
+      {
+        "Year": "2012",
+        "Pay": "3855.26",
+        "SredniaCenaProduktow": 9.62,
+        "IloscProduktowNaPensje": 400.87,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.91" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.34" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.36" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.08" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "24.37"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.41" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "19.85" }
+        ]
+      },
+      {
+        "Year": "2013",
+        "Pay": "4022.8",
+        "SredniaCenaProduktow": 10.12,
+        "IloscProduktowNaPensje": 397.45,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.93" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.38" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.61" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.29" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.47"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.07" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.1" }
+        ]
+      },
+      {
+        "Year": "2014",
+        "Pay": "4100.51",
+        "SredniaCenaProduktow": 9.83,
+        "IloscProduktowNaPensje": 417.2,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.94" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.39" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.72" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.23" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.1"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.77" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "19.65" }
+        ]
+      },
+      {
+        "Year": "2015",
+        "Pay": "4221.45",
+        "SredniaCenaProduktow": 9.73,
+        "IloscProduktowNaPensje": 433.73,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.74" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.38" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.65" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.15" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.57"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.39" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "19.25" }
+        ]
+      },
+      {
+        "Year": "2016",
+        "Pay": "4295.29",
+        "SredniaCenaProduktow": 9.22,
+        "IloscProduktowNaPensje": 465.87,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.6" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.39" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.79" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.65" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.09" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.5"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.17" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "19.57" }
+        ]
+      },
+      {
+        "Year": "2017",
+        "Pay": "4481.57",
+        "SredniaCenaProduktow": 9.85,
+        "IloscProduktowNaPensje": 455.04,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.65" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.4" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.89" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.59" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.23" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "26.42"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.34" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.27" }
+        ]
+      },
+      {
+        "Year": "2018",
+        "Pay": "4825.28",
+        "SredniaCenaProduktow": 10.26,
+        "IloscProduktowNaPensje": 470.41,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.62" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.41" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.18" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.65" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.34" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "27.67"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.57" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "22.62" }
+        ]
+      },
+      {
+        "Year": "2019",
+        "Pay": "5177.86",
+        "SredniaCenaProduktow": 10.77,
+        "IloscProduktowNaPensje": 480.71,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.88" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.46" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.59" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.86" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.36" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "27.48"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "18.18" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "24.36" }
+        ]
+      },
+      {
+        "Year": "2020",
+        "Pay": "5450.86",
+        "SredniaCenaProduktow": 12.34,
+        "IloscProduktowNaPensje": 441.62,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.26" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.52" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "3" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.64" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "28.59"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "20.18" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "27.21" }
+        ]
+      },
+      {
+        "Year": "2021",
+        "Pay": "-",
+        "SredniaCenaProduktow": 0.0,
+        "IloscProduktowNaPensje": 0.0,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "-" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "-" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "-" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "-" },
+          { "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg", "Cena": "-" },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "-" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "-" }
+        ]
+      }
+    ],
+    "WzrostZarobkowNa10Lat": 43.65,
+    "WzrostCenNa10Lat": 44.16,
+    "SredniaIloscProduktowNaPensje": 440.61199999999997
+  },
+  {
+    "Name": "ŚWIĘTOKRZYSKIE",
+    "Lata": [
+      {
+        "Year": "2011",
+        "Pay": "3137.91",
+        "SredniaCenaProduktow": 8.31,
+        "IloscProduktowNaPensje": 377.41,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.78" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.38" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.33" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.09" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "20.74"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "13.85" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "15.03" }
+        ]
+      },
+      {
+        "Year": "2012",
+        "Pay": "3250.94",
+        "SredniaCenaProduktow": 9.35,
+        "IloscProduktowNaPensje": 347.64,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.09" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.37" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.33" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.04" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "23.39"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.46" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.78" }
+        ]
+      },
+      {
+        "Year": "2013",
+        "Pay": "3349.81",
+        "SredniaCenaProduktow": 9.5,
+        "IloscProduktowNaPensje": 352.45,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.05" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.37" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.45" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.84" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "24.29"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.5" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "19.03" }
+        ]
+      },
+      {
+        "Year": "2014",
+        "Pay": "3435.93",
+        "SredniaCenaProduktow": 9.6,
+        "IloscProduktowNaPensje": 358.02,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.92" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.36" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.45" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.66" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "24.05"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.05" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "19.69" }
+        ]
+      },
+      {
+        "Year": "2015",
+        "Pay": "3580.62",
+        "SredniaCenaProduktow": 9.37,
+        "IloscProduktowNaPensje": 382.19,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.29" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.36" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.28" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.64" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "23.58"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.1" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "19.33" }
+        ]
+      },
+      {
+        "Year": "2016",
+        "Pay": "3669.57",
+        "SredniaCenaProduktow": 8.64,
+        "IloscProduktowNaPensje": 424.6,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.17" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.36" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.31" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.62" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "24.18"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "13.51" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "17.99" }
+        ]
+      },
+      {
+        "Year": "2017",
+        "Pay": "3911.49",
+        "SredniaCenaProduktow": 9.54,
+        "IloscProduktowNaPensje": 409.96,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.43" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.37" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.99" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.63" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.53" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.48"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.96" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "20.94" }
+        ]
+      },
+      {
+        "Year": "2018",
+        "Pay": "4171.17",
+        "SredniaCenaProduktow": 9.77,
+        "IloscProduktowNaPensje": 426.99,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.58" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.39" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.26" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.61" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.57" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "26.05"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.38" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.31" }
+        ]
+      },
+      {
+        "Year": "2019",
+        "Pay": "4490.41",
+        "SredniaCenaProduktow": 10.11,
+        "IloscProduktowNaPensje": 444.16,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.61" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.46" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.79" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.87" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.74" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.79"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.57" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "23.05" }
+        ]
+      },
+      {
+        "Year": "2020",
+        "Pay": "4800.21",
+        "SredniaCenaProduktow": 11.5,
+        "IloscProduktowNaPensje": 417.36,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.94" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.48" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.98" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.92" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.38"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "18.82" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "26.99" }
+        ]
+      },
+      {
+        "Year": "2021",
+        "Pay": "-",
+        "SredniaCenaProduktow": 0.0,
+        "IloscProduktowNaPensje": 0.0,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "-" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "-" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "-" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "-" },
+          { "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg", "Cena": "-" },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "-" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "-" }
+        ]
+      }
+    ],
+    "WzrostZarobkowNa10Lat": 52.97,
+    "WzrostCenNa10Lat": 38.39,
+    "SredniaIloscProduktowNaPensje": 394.07800000000003
+  },
+  {
+    "Name": "WARMIŃSKO-MAZURSKIE",
+    "Lata": [
+      {
+        "Year": "2011",
+        "Pay": "3019.37",
+        "SredniaCenaProduktow": 9.33,
+        "IloscProduktowNaPensje": 323.72,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.38" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.41" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.31" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.6" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "22.47"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.48" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "17.64" }
+        ]
+      },
+      {
+        "Year": "2012",
+        "Pay": "3150.27",
+        "SredniaCenaProduktow": 10.25,
+        "IloscProduktowNaPensje": 307.34,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.62" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.42" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.4" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.69" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "25.67"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.83" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "19.12" }
+        ]
+      },
+      {
+        "Year": "2013",
+        "Pay": "3264.63",
+        "SredniaCenaProduktow": 10.31,
+        "IloscProduktowNaPensje": 316.69,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.48" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.41" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.5" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.69" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "26.36"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.78" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.94" }
+        ]
+      },
+      {
+        "Year": "2014",
+        "Pay": "3386.96",
+        "SredniaCenaProduktow": 10.07,
+        "IloscProduktowNaPensje": 336.2,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.41" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.4" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.4" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.56" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "24.72"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "17.04" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.99" }
+        ]
+      },
+      {
+        "Year": "2015",
+        "Pay": "3495.02",
+        "SredniaCenaProduktow": 10.18,
+        "IloscProduktowNaPensje": 343.18,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.35" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.39" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.23" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.57" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "26.63"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.51" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.61" }
+        ]
+      },
+      {
+        "Year": "2016",
+        "Pay": "3619.16",
+        "SredniaCenaProduktow": 10.11,
+        "IloscProduktowNaPensje": 357.98,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.34" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.36" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.47" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.32" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.51" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "28.53"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "17.62" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.73" }
+        ]
+      },
+      {
+        "Year": "2017",
+        "Pay": "3802.98",
+        "SredniaCenaProduktow": 10.94,
+        "IloscProduktowNaPensje": 347.78,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.16" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.38" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.99" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.44" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.63" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "30.08"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "19.03" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.77" }
+        ]
+      },
+      {
+        "Year": "2018",
+        "Pay": "4028.33",
+        "SredniaCenaProduktow": 11.08,
+        "IloscProduktowNaPensje": 363.44,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.94" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.43" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "7.07" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.44" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.73" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "30.1"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "19.12" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "22.84" }
+        ]
+      },
+      {
+        "Year": "2019",
+        "Pay": "4319.51",
+        "SredniaCenaProduktow": 11.68,
+        "IloscProduktowNaPensje": 369.94,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.86" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.44" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "7.9" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.77" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.88" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "30.42"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "20.08" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "25.06" }
+        ]
+      },
+      {
+        "Year": "2020",
+        "Pay": "4709.12",
+        "SredniaCenaProduktow": 12.92,
+        "IloscProduktowNaPensje": 364.4,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.16" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.5" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "3.06" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "3.25" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "30.01"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "21.69" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "27.79" }
+        ]
+      },
+      {
+        "Year": "2021",
+        "Pay": "-",
+        "SredniaCenaProduktow": 0.0,
+        "IloscProduktowNaPensje": 0.0,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "-" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "-" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "-" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "-" },
+          { "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg", "Cena": "-" },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "-" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "-" }
+        ]
+      }
+    ],
+    "WzrostZarobkowNa10Lat": 55.96,
+    "WzrostCenNa10Lat": 38.48,
+    "SredniaIloscProduktowNaPensje": 343.06700000000006
+  },
+  {
+    "Name": "WIELKOPOLSKIE",
+    "Lata": [
+      {
+        "Year": "2011",
+        "Pay": "3284.41",
+        "SredniaCenaProduktow": 9.15,
+        "IloscProduktowNaPensje": 359.06,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.88" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.19" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.76" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "24.92"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.38" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "16.45" }
+        ]
+      },
+      {
+        "Year": "2012",
+        "Pay": "3397.25",
+        "SredniaCenaProduktow": 10.03,
+        "IloscProduktowNaPensje": 338.61,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.07" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.19" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.83" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "28.35"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.36" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "17.98" }
+        ]
+      },
+      {
+        "Year": "2013",
+        "Pay": "3515.31",
+        "SredniaCenaProduktow": 10.19,
+        "IloscProduktowNaPensje": 345.12,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.06" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.32" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.8" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "29.15"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "14.93" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.59" }
+        ]
+      },
+      {
+        "Year": "2014",
+        "Pay": "3597.69",
+        "SredniaCenaProduktow": 9.88,
+        "IloscProduktowNaPensje": 364.14,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.8" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.44" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.15" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.71" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "29.08"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "13.62" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.36" }
+        ]
+      },
+      {
+        "Year": "2015",
+        "Pay": "3723.69",
+        "SredniaCenaProduktow": 9.85,
+        "IloscProduktowNaPensje": 377.88,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.79" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.44" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.12" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.72" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "29.17"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "13.64" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.1" }
+        ]
+      },
+      {
+        "Year": "2016",
+        "Pay": "3894.1",
+        "SredniaCenaProduktow": 9.54,
+        "IloscProduktowNaPensje": 408.24,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.64" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.55" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.15" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.76" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "30.53"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "13.99" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "18.24" }
+        ]
+      },
+      {
+        "Year": "2017",
+        "Pay": "4124.13",
+        "SredniaCenaProduktow": 10.42,
+        "IloscProduktowNaPensje": 395.65,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.6" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.46" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "5.95" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.18" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.82" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "32.56"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.78" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "20.04" }
+        ]
+      },
+      {
+        "Year": "2018",
+        "Pay": "4382.96",
+        "SredniaCenaProduktow": 10.8,
+        "IloscProduktowNaPensje": 405.64,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.57" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.5" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.39" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.28" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.89" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "33.22"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "17.9" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "20.69" }
+        ]
+      },
+      {
+        "Year": "2019",
+        "Pay": "4687.39",
+        "SredniaCenaProduktow": 11.27,
+        "IloscProduktowNaPensje": 415.87,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.74" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.55" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.88" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.66" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.87" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "33.07"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "19.42" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.98" }
+        ]
+      },
+      {
+        "Year": "2020",
+        "Pay": "4985.75",
+        "SredniaCenaProduktow": 12.94,
+        "IloscProduktowNaPensje": 385.3,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.99" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.58" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.92" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.08" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "34.66"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "21.16" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "25.19" }
+        ]
+      },
+      {
+        "Year": "2021",
+        "Pay": "-",
+        "SredniaCenaProduktow": 0.0,
+        "IloscProduktowNaPensje": 0.0,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "-" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "-" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "-" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "-" },
+          { "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg", "Cena": "-" },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "-" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "-" }
+        ]
+      }
+    ],
+    "WzrostZarobkowNa10Lat": 51.8,
+    "WzrostCenNa10Lat": 41.42,
+    "SredniaIloscProduktowNaPensje": 379.55100000000004
+  },
+  {
+    "Name": "ZACHODNIOPOMORSKIE",
+    "Lata": [
+      {
+        "Year": "2011",
+        "Pay": "3289.56",
+        "SredniaCenaProduktow": 9.15,
+        "IloscProduktowNaPensje": 359.68,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.2" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.47" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.16" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.04" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "22.14"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.08" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "17.93" }
+        ]
+      },
+      {
+        "Year": "2012",
+        "Pay": "3417.76",
+        "SredniaCenaProduktow": 10.32,
+        "IloscProduktowNaPensje": 331.27,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.43" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.46" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.24" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.07" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "26.21"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.94" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "20.87" }
+        ]
+      },
+      {
+        "Year": "2013",
+        "Pay": "3539.12",
+        "SredniaCenaProduktow": 10.67,
+        "IloscProduktowNaPensje": 331.64,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "4.24" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.45" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.39" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "2.03" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "27.65"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.86" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "22.08" }
+        ]
+      },
+      {
+        "Year": "2014",
+        "Pay": "3649.27",
+        "SredniaCenaProduktow": 10.47,
+        "IloscProduktowNaPensje": 348.4,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.63" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.46" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.42" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.78" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "26.97"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "16.07" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.99" }
+        ]
+      },
+      {
+        "Year": "2015",
+        "Pay": "3793.68",
+        "SredniaCenaProduktow": 10.28,
+        "IloscProduktowNaPensje": 368.98,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.65" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.46" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.37" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.67" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "27.08"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.37" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.37" }
+        ]
+      },
+      {
+        "Year": "2016",
+        "Pay": "3946.28",
+        "SredniaCenaProduktow": 10.01,
+        "IloscProduktowNaPensje": 394.23,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.71" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.43" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.35" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.5" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.65" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "28.25"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "15.68" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "21.51" }
+        ]
+      },
+      {
+        "Year": "2017",
+        "Pay": "4154.25",
+        "SredniaCenaProduktow": 10.58,
+        "IloscProduktowNaPensje": 392.51,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.75" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.41" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.42" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.48" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.58" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "29.17"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "17.52" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "23.34" }
+        ]
+      },
+      {
+        "Year": "2018",
+        "Pay": "4431.95",
+        "SredniaCenaProduktow": 10.77,
+        "IloscProduktowNaPensje": 411.37,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.8" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.43" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "6.56" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.41" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.67" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "29.61"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "17.64" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "24.07" }
+        ]
+      },
+      {
+        "Year": "2019",
+        "Pay": "4769.71",
+        "SredniaCenaProduktow": 11.38,
+        "IloscProduktowNaPensje": 419.08,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.92" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.48" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "7.31" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.59" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.74" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "29.82"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "18.89" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "26.3" }
+        ]
+      },
+      {
+        "Year": "2020",
+        "Pay": "5099.49",
+        "SredniaCenaProduktow": 12.93,
+        "IloscProduktowNaPensje": 394.3,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "3.91" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "0.54" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "2.7" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "1.79" },
+          {
+            "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg",
+            "Cena": "30.37"
+          },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "21.24" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "29.98" }
+        ]
+      },
+      {
+        "Year": "2021",
+        "Pay": "-",
+        "SredniaCenaProduktow": 0.0,
+        "IloscProduktowNaPensje": 0.0,
+        "Produkty": [
+          { "Nazwa": "ryż - za 1kg", "Cena": "-" },
+          { "Nazwa": "bułka pszenna - za 50g", "Cena": "-" },
+          { "Nazwa": "chleb żytni razowy zwykły - za 1kg", "Cena": "-" },
+          { "Nazwa": "mąka pszenna - za 1kg", "Cena": "-" },
+          { "Nazwa": "kasza jęczmienna - za 0,5kg", "Cena": "-" },
+          { "Nazwa": "mięso wołowe z kością (rostbef) - za 1kg", "Cena": "-" },
+          { "Nazwa": "kiełbasa wędzona - za 1kg", "Cena": "-" },
+          { "Nazwa": "boczek wędzony - za 1kg", "Cena": "-" }
+        ]
+      }
+    ],
+    "WzrostZarobkowNa10Lat": 55.02,
+    "WzrostCenNa10Lat": 41.31,
+    "SredniaIloscProduktowNaPensje": 375.146
+  }
+]
