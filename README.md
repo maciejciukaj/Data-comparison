@@ -31,6 +31,10 @@ Open two terminals and run following scripts:
 > cd client
 > ng serve
 ```
+*Url* :
+```shell
+https://localhost:4200
+```
 ## Technologies
 <ul>
 
